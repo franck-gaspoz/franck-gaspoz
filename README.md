@@ -12,7 +12,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
   - read the project README @ [https://github.com/franck-gaspoz/orbital-shell/blob/master/README.md](https://github.com/franck-gaspoz/orbital-shell/blob/master/README.md)
   - visit the project's web site @ [https://franck-gaspoz.github.io/orbital-shell/](https://franck-gaspoz.github.io/orbital-shell/)
   - visit the project repository @ [https://github.com/franck-gaspoz/orbital-shell/](https://github.com/franck-gaspoz/orbital-shell/)
-  - 
+  - Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to me
 
   **The project team to meet new people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
 
