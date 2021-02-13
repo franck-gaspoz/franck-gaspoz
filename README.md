@@ -27,6 +27,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 - view model base implementation for WPF
 - google (free) translator api
 - command pattern extension
+- mantisBT web server api
 - various cli tools
 
 <!--
