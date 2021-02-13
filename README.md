@@ -12,6 +12,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
   - read the project README @ [https://github.com/franck-gaspoz/orbital-shell/blob/master/README.md](https://github.com/franck-gaspoz/orbital-shell/blob/master/README.md)
   - visit the project's web site @ [https://franck-gaspoz.github.io/orbital-shell/](https://franck-gaspoz.github.io/orbital-shell/)
   - visit the project repository @ [https://github.com/franck-gaspoz/orbital-shell/](https://github.com/franck-gaspoz/orbital-shell/)
+  - 
 
   **The project team to meet new people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
 
@@ -19,6 +20,14 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 -- | --
 
   *Warning: due to the average age of our main contributors, this project might contains **vintage** architecture,design and code. Nevertheless the source code is intensively based on young timers preferred patterns, C# 8 language usage (intellisense agrees), and it pretends to fit to good practices and architecture guidelines.*
+
+### ⚡ Other stuff below
+
+- parsing any language with ANTR C#
+- view model base implementation for WPF
+- google (free) translator api
+- command pattern extension
+- various cli tools
 
 <!--
 **franck-gaspoz/franck-gaspoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
