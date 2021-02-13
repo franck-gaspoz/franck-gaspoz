@@ -15,7 +15,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
   - visit the project repository @ [https://github.com/franck-gaspoz/orbital-shell/](https://github.com/franck-gaspoz/orbital-shell/)
   - Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to [me](mailto://franck.gaspoz@gmail.com) 
 
-  **The project team to meet new people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
+  **The project team like to meet people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
 
 <img src="tra4brains.png"/> | :warning: this project might be considered as a toy for old developer<br><br><img src="pegi46small.png"/><br><br>
 -- | --
@@ -24,7 +24,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 
 ### ⚡ Other stuff below
 
-- parsing any language with ANTR C#
+- parsing any language with ANTLR C#
 - view model base implementation for WPF
 - google (free) translator api
 - command pattern extension
