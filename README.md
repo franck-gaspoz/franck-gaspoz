@@ -9,7 +9,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 
 - 😄 I’m looking for **collaborators** 👯 to help for evolving this tool ! If you **like** the **command line**, the **bash** syntax, programming **cli tools**, **parsers**, **data streams**, ANSI, C# 8, batch, and so on... you may like to develop orbital shell! Any idea, suggest, code, feedback is welcomed ! You can directly **FORK** the project @ [https://github.com/franck-gaspoz/orbital-shell.git](https://github.com/franck-gaspoz/orbital-shell.git) and start developing to prepare your first pull request, it will be well received. You can also peek **an issue** and start working on. We can contact 💬 by mail, skype and so on...
 
-  - read the [contribution guide lines](https://github.com/franck-gaspoz/orbital-shell/blob/master/CONTRIBUTING.md) and the code of conduct of the project
+  - read the [contribution guide lines](https://github.com/franck-gaspoz/orbital-shell/blob/master/CONTRIBUTING.md) and the [code of conduct of the project](https://github.com/franck-gaspoz/orbital-shell/blob/master/CONTRIBUTING.md)
   - read the project README @ [https://github.com/franck-gaspoz/orbital-shell/blob/master/README.md](https://github.com/franck-gaspoz/orbital-shell/blob/master/README.md)
   - visit the project's web site @ [https://franck-gaspoz.github.io/orbital-shell/](https://franck-gaspoz.github.io/orbital-shell/)
   - visit the project repository @ [https://github.com/franck-gaspoz/orbital-shell/](https://github.com/franck-gaspoz/orbital-shell/)
