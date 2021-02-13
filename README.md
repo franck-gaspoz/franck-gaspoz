@@ -13,7 +13,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
   - visit the project's web site @ [https://franck-gaspoz.github.io/orbital-shell/](https://franck-gaspoz.github.io/orbital-shell/)
   - visit the project repository @ [https://github.com/franck-gaspoz/orbital-shell/](https://github.com/franck-gaspoz/orbital-shell/)
 
-  **The project team aims at meeting new people and wish to share pleasure of programming and technology enthousiasm, with fun and good spirit** 
+  **The project team to meet new people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
 
 <img src="tra4brains.png"/> | :warning: this project might be considered as a toy for old developer<br><br><img src="pegi46small.png"/><br><br>
 -- | --
