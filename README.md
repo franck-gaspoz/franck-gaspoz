@@ -7,7 +7,14 @@
 
 This shell integrates the <u>most usefull shell commands</u>, and is intented to be extended by coding new commands or downloading new commands modules within a repository of modules. Of course it can be enterly customized by using the features integrated to the shell (<u>scripts, functions, commands, aliases, settings, parametrization,...</u>). Having a strong <u>ANSI/VT-100-220-300-500</u> support, it provides structured and colorized display of data and information (support of <u>ASCII, Unicode and 24 bits colors</u>).
 
-- 😄 I’m looking for collaborators to help for evolving this tool !
+- 😄 I’m looking for **collaborators** 👯 to help for evolving this tool ! If you **like** the **command line**, the **bash** syntax, programming **cli tools**, **parsers**, **data streams**, ANSI, C# 8, batch, and so on... you may like to develop orbital shell! Any idea, suggest, code, feedback is welcomed ! Just **FORK** the project @ [https://github.com/franck-gaspoz/orbital-shell.git](https://github.com/franck-gaspoz/orbital-shell.git) and starts developing to prepare your first pull request, it will be well received. We can contact 💬 by mail, skype and so on... Read the [contribution guide lines](https://github.com/franck-gaspoz/orbital-shell/blob/master/CONTRIBUTING.md) and the code of conduct of the project
+
+**The project team aims at meeting new people and wish to share pleasure of programming and technology enthousiasm, with fun and good spirit** 
+
+<img src="tra4brains.png"/> | :warning: this project might be considered as a toy for old developer<br><br><img src="pegi46small.png"/><br><br>
+-- | --
+
+*Warning: due to the average age of our main contributors, this project might contains **vintage** architecture,design and code. Nevertheless the source code is intensively based on young timers preferred patterns, C# 8 language usage (intellisense agrees), and it pretends to fit to good practices and architecture guidelines.*
 
 <!--
 **franck-gaspoz/franck-gaspoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
