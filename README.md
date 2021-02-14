@@ -22,7 +22,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 
   *Warning: due to the average age of our main contributors, this project might contains **vintage** architecture,design and code. Nevertheless the source code is intensively based on young timers preferred patterns, C# 8 language usage (intellisense agrees), and it pretends to fit to good practices and architecture guidelines.*
 
-### ⚡ Other stuff below
+### ⚡ Other works below
 
 - parsing any language with ANTLR C#
 - view model base implementation for WPF
