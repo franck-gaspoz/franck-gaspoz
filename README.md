@@ -10,9 +10,9 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 - 😄 I’m looking for **collaborators** 👯 to help for evolving this tool ! If you **like** the **command line**, the **bash** syntax, programming **cli tools**, **parsers**, **data streams**, ANSI, C# 8, batch, and so on... you may like to develop orbital shell! Any idea, suggest, code, feedback is welcomed ! You can directly **FORK** the project @ [https://github.com/OrbitalShell/Orbital-Shell.git](https://github.com/OrbitalShell/Orbital-Shell.git) and start developing to prepare your first pull request, it will be well received. You can also peek **an issue** and start working on. Join the **orbital shell team** and get advantages of the team tools on github. We can contact 💬 by mail, skype and so on...
 
   - read the [contribution guide lines](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CONTRIBUTING.md) and the [code of conduct of the project](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CODE_OF_CONDUCT.md)
-  - read the project README @ [https://github.com/franck-gaspoz/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
-  - visit the project's web site @ [https://franck-gaspoz.github.io/orbital-shell/](https://orbitalshell.github.io/Orbital-Shell/)
-  - visit the project repository @ [https://github.com/franck-gaspoz/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
+  - read the project README @ [https://github.com/OrbitalShell/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
+  - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/Orbital-Shell/)
+  - visit the project repository @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
   - Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to [me](mailto://franck.gaspoz@gmail.com) 
 
   **The project team like to meet people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
@@ -32,7 +32,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 - various cli tools
 
 <!--
-**franck-gaspoz/franck-gaspoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OrbitalShell/OrbitalShell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
