@@ -37,7 +37,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 - google (free) translator api
 - command pattern extension
 - mantisBT web server api
-- various cli tools
+- various cli tools and libraries
 
 <!--
 **OrbitalShell/OrbitalShell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
