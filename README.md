@@ -9,7 +9,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 
 <br>
 
-- 😄 I’m looking for **collaborators** 👯 to help for evolving this tool ! If you **like** the **command line**, the **bash** syntax, programming **cli tools**, **parsers**, **data streams**, ANSI, C# 8, batch, and so on... you may like to develop orbital shell! Any idea, suggest, code, feedback is welcomed ! You can directly **FORK** the project @ [https://github.com/OrbitalShell/Orbital-Shell.git](https://github.com/OrbitalShell/Orbital-Shell.git) and start developing to prepare your first pull request, it will be well received. You can also peek **an issue** and start working on. Join the **orbital shell team** and get advantages of the team tools on github. We can contact 💬 by mail, skype and so on...
+- 😄 We are looking for **collaborators** 👯 to help for evolving this tool ! If you **like** the **command line**, the **bash** syntax, programming **cli tools**, **parsers**, **data streams**, ANSI, C# 8, batch, and so on... you may like to develop orbital shell! Any idea, suggest, code, feedback is welcomed ! You can directly **FORK** the project @ [https://github.com/OrbitalShell/Orbital-Shell.git](https://github.com/OrbitalShell/Orbital-Shell.git) and start developing to prepare your first pull request, it will be well received. You can also peek **an issue** and start working on. Join the **orbital shell team** and get advantages of the team tools on github. We can contact 💬 by mail, skype and so on...
 
   - read the [contribution guide lines](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CONTRIBUTING.md) and the [code of conduct of the project](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CODE_OF_CONDUCT.md)
   - read the project README @ [https://github.com/OrbitalShell/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
@@ -17,7 +17,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
   - visit the project repository @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
 
 ## :fast_forward: :fast_forward: Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to the maintener [me](mailto://franck.gaspoz@gmail.com) 
-A simple **hello** from you part and you will be welcomed and subsribed to the project !
+A simple **hello** from you part and you will be welcomed and invited to join the project 👍 !
 
 <br>
 
