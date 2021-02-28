@@ -9,6 +9,8 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 
 <br>
 
+## Contribute !
+
 - 😄 We are looking for **collaborators** 👯 to help for evolving this tool ! If you **like** the **command line**, the **bash** syntax, programming **cli tools**, **parsers**, **data streams**, ANSI, C# 8, batch, and so on... you may like to develop orbital shell! Any idea, suggest, code, feedback is welcomed ! You can directly **FORK** the project @ [https://github.com/OrbitalShell/Orbital-Shell.git](https://github.com/OrbitalShell/Orbital-Shell.git) and start developing to prepare your first pull request, it will be well received. You can also peek **an issue** and start working on. Join the **orbital shell team** and get advantages of the team tools on github. We can contact 💬 by mail, skype and so on...
 
   - read the [contribution guide lines](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CONTRIBUTING.md) and the [code of conduct of the project](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CODE_OF_CONDUCT.md)
@@ -17,7 +19,8 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
   - visit the project repository @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
 
 ## :fast_forward: :fast_forward: Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to the maintener [me](mailto://franck.gaspoz@gmail.com) 
-- A simple **hello** from you part and you will be welcomed and invited to join the project 👍 !
+- Curious / beginner / intermediate / expert are all welcomed! 
+- A simple **hello** from you part and you will be invited to join the project 👍 !
 - A simple **star** on the project main repo and you will also be invited 👋 !
 ## :fast_forward: :fast_forward: This project is a collaborative work, any one can participate and do anything he wishes 😎 !
 
