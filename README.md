@@ -18,7 +18,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
   - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
   - visit the project repository @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
 
-## :fast_forward: :fast_forward: Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to the maintener [me](mailto://franck.gaspoz@gmail.com) 
+## :fast_forward: :fast_forward: Join the project. You can send a mail to the project team: [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to the maintener: [me](mailto://franck.gaspoz@gmail.com)
 - Curious / beginner / intermediate / expert are all welcomed! 
 - A simple **hello** from you part and you will be invited to join the project 👍 !
 - A simple **star** on the project main repo and you will also be invited 👋 !
@@ -45,6 +45,12 @@ There are a various subjects that can be treated:
 -- | --
 
   *Warning: due to the average age of our main contributors, this project might contains **vintage** architecture,design and code. Nevertheless the source code is intensively based on young timers preferred patterns, C# 8 language usage (intellisense agrees), and it pretends to fit to good practices and architecture guidelines.*
+
+<br><br>
+
+### ⚡ Orbital Shell preview
+
+![orbsh running in visual studio debuger console](https://raw.githubusercontent.com/OrbitalShell/Orbital-Shell/master/assets/shell-wt-1.0.8-2.png)
 
 <br><br>
 
