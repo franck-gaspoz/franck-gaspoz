@@ -27,7 +27,8 @@ There are a various subjects that can be treated:
 - develop shell commands (find,ls,grep,sed,..: add/improve any command you want!)
 - develop shell scripts (.orbsh/.sh)
 - Technical documentation
-- Automatic Tests
+- Automated Tests
+- Design any new feature
 - CI/CD (powered by GitHub workflows) : binaries / distribs / .nupkg / setups / ...
 - Web site development (design, content update, ...)
 <br>
