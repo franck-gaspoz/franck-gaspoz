@@ -17,8 +17,19 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
   - visit the project repository @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
 
 ## :fast_forward: :fast_forward: Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to the maintener [me](mailto://franck.gaspoz@gmail.com) 
-A simple **hello** from you part and you will be welcomed and invited to join the project 👍 !
+- A simple **hello** from you part and you will be welcomed and invited to join the project 👍 !
+- A simple **star** on the project main repo and you will also be invited 👋 !
+## :fast_forward: :fast_forward: This project is a collaborative work, any one can participate and do anything he wishes 😎 !
 
+There are a various subjects that can be treated:
+- C# 5.0 programming
+- develop command line parser
+- develop shell commands (find,ls,grep,sed,..: add/improve any command you want!)
+- develop shell scripts (.orbsh/.sh)
+- Technical documentation
+- Automatic Tests
+- CI/CD (powered by GitHub workflows) : binaries / distribs / .nupkg / setups / ...
+- Web site development (design, content update, ...)
 <br>
 
   **The project team like to meet people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
