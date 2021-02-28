@@ -29,7 +29,8 @@ There are a various subjects that can be treated:
 - Technical documentation
 - Automated Tests
 - Design any new feature
-- CI/CD (powered by GitHub workflows) : binaries / distribs / .nupkg / setups / ...
+- CI/CD (powered by GitHub workflows)
+- build binaries / distribs / .nupkg / setups / ...
 - Web site development (design, content update, ...)
 <br>
 
