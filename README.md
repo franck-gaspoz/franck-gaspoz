@@ -1,7 +1,7 @@
 ### Hi there 👋  
 - I'm currently working on a command shell cli tool using C# Net Core :<br><br>
 
-<img src="robotazteque.png" align="left" style="float:left;margin-right:8px"/><b>Orbital Shell</b> is a multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8, .NET Core 3.1/Net 5 and .NET Standard 2.1**
+<img src="robotazteque.png" align="left" style="float:left;margin-right:8px"/><b>Orbital Shell</b> is a multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8 .NET 5.0 - compatible with modules and libraries targeting .NET Core 3.1 and .NET Standard 2.1**
 
 <br>
 
@@ -13,9 +13,11 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 
   - read the [contribution guide lines](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CONTRIBUTING.md) and the [code of conduct of the project](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CODE_OF_CONDUCT.md)
   - read the project README @ [https://github.com/OrbitalShell/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
-  - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/Orbital-Shell/)
+  - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
   - visit the project repository @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
-  - Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to [me](mailto://franck.gaspoz@gmail.com) 
+
+## :fast_forward: :fast_forward: Join the project. You can send a mail to the project team @ [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to the maintener [me](mailto://franck.gaspoz@gmail.com) 
+A simple **hello** from you part and you will be welcomed and subsribed to the project !
 
 <br>
 
