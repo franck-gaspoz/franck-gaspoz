@@ -35,6 +35,8 @@ There are a various subjects that can be treated:
 - CI/CD (powered by GitHub workflows)
 - build binaries / distribs / .nupkg / setups / ...
 - Web site development (design, content update, ...)
+- internalionalization
+- translates
 <br>
 
   **The project team like to meet people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
