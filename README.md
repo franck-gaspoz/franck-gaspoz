@@ -25,7 +25,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 ## :fast_forward: :fast_forward: This project is a collaborative work, any one can participate and do anything he wishes 😎 !
 
 There are a various subjects that can be treated:
-- C# 5.0 programming
+- .NET 5.0 (C# 8) programming
 - develop command line parser
 - develop shell commands (find,ls,grep,sed,..: add/improve any command you want!)
 - develop shell scripts (.orbsh/.sh)
