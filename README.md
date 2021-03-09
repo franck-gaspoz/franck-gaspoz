@@ -63,6 +63,7 @@ There are a various subjects that can be treated:
 - google (free) translator api
 - command pattern extension
 - mantisBT web server api (Swagger/OpenAPI)
+- multi modal mvvm model validation
 - various cli tools and libraries
 
 - a wpf widget dock:
