@@ -69,9 +69,11 @@ There are a various subjects that can be treated:
 
 <br>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/WidgetDockXTreme/master/Doc/preview.png" align="center" style="margin-left:auto;margin-right:auto"/>
-
+<br>
 provided with a [dev tutorial](https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial)
+</p>
 
 <!--
 **OrbitalShell/OrbitalShell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
