@@ -62,7 +62,7 @@ There are a various subjects that can be treated:
 - view model base implementation for WPF
 - google (free) translator api
 - command pattern extension
-- mantisBT web server api
+- mantisBT web server api (Swagger/OpenAPI)
 - various cli tools and libraries
 
 - a wpf widget dock:
