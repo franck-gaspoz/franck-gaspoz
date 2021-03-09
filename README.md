@@ -65,6 +65,12 @@ There are a various subjects that can be treated:
 - mantisBT web server api
 - various cli tools and libraries
 
+- a wpf widget dock:
+
+<br>
+
+<img src="https://raw.githubusercontent.com/franck-gaspoz/WidgetDockXTreme/master/Doc/preview.png" align="center"/>
+
 <!--
 **OrbitalShell/OrbitalShell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
