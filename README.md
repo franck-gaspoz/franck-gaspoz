@@ -84,7 +84,7 @@ provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/
 
 <br/>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=franck-gaspoz&show_icons=true)]
+![github stats](https://github-readme-stats.vercel.app/api?username=franck-gaspoz&show_icons=true)
 
 <!--
 **OrbitalShell/OrbitalShell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
