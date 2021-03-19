@@ -76,6 +76,16 @@ There are a various subjects that can be treated:
 provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">dev tutorial</a>
 </p>
 
+## About me
+
+[![Github](https://img.shields.io/github/followers/franck-gaspoz?label=Follow&style=social)](https://github.com/franck-gaspoz)
+[![Linkedin](https://img.shields.io/badge/-franck%20gaspoz-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/franckgaspoz/)
+[![Mail](https://img.shields.io/badge/-franck.gaspoz@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:franck.gaspoz@gmail.com)
+
+<br/>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=franck-gaspoz&show_icons=true)]
+
 <!--
 **OrbitalShell/OrbitalShell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
