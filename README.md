@@ -9,7 +9,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 <img src="https://raw.githubusercontent.com/OrbitalShell/Orbital-Shell/master/assets/shell-wt-1.0.8-2.png" width="50%" align="center" style="margin-left:auto;margin-right:auto">
 <br>
 orbsh running in visual studio debuger console
-<br>
+<br><br>
 <b>Contribute :</b><br>We are looking for **collaborators** to help evolving this tool !
   - read the project README @ [https://github.com/OrbitalShell/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
   - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
