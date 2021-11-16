@@ -1,60 +1,25 @@
-### Hi there 👋  
-- I'm currently working on a command shell cli tool using C# Net Core :<br><br>
+### Hi there 👋
+<hr>
 
-<img src="robotazteque.png" align="left" style="float:left;margin-right:8px"/><b>Orbital Shell</b> is a multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8 .NET 5.0 - compatible with modules and libraries targeting .NET Core 3.1 and .NET Standard 2.1**
+#### Find here some of my software repositories:
 
-<br>
-
-This shell integrates the <u>most usefull shell commands</u>, and is intented to be extended by coding new commands or downloading new commands modules within a repository of modules. Of course it can be enterly customized by using the features integrated to the shell (<u>scripts, functions, commands, aliases, settings, parametrization,...</u>). Having a strong <u>ANSI/VT-100-220-300-500</u> support, it provides structured and colorized display of data and information (support of <u>ASCII, Unicode and 24 bits colors</u>).
-
-<br>
-
-## Contribute !
-
-- 😄 We are looking for **collaborators** 👯 to help for evolving this tool ! If you **like** the **command line**, the **bash** syntax, programming **cli tools**, **parsers**, **data streams**, ANSI, C# 8, batch, and so on... you may like to develop orbital shell! Any idea, suggest, code, feedback is welcomed ! You can directly **FORK** the project @ [https://github.com/OrbitalShell/Orbital-Shell.git](https://github.com/OrbitalShell/Orbital-Shell.git) and start developing to prepare your first pull request, it will be well received. You can also peek **an issue** and start working on. Join the **orbital shell team** and get advantages of the team tools on github. We can contact 💬 by mail, skype and so on...
-
-  - read the [contribution guide lines](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CONTRIBUTING.md) and the [code of conduct of the project](https://github.com/OrbitalShell/Orbital-Shell/blob/master/CODE_OF_CONDUCT.md)
-  - read the project README @ [https://github.com/OrbitalShell/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
-  - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
-  - visit the project repository @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
-
-## :fast_forward: :fast_forward: Join the project. You can send a mail to the project team: [mailto://orbital-shell@outlook.fr](mailto://orbital-shell@outlook.fr) or to the maintener: [me](mailto://franck.gaspoz@gmail.com)
-- Curious / beginner / intermediate / expert are all welcomed! 
-- A simple **hello** from you part and you will be invited to join the project 👍 !
-- A simple **star** on the project main repo and you will also be invited 👋 !
-## :fast_forward: :fast_forward: This project is a collaborative work, any one can participate and do anything he wishes 😎 !
-
-There are a various subjects that can be treated:
-- .NET 5.0 (C# 8) programming
-- develop command line parser
-- develop shell commands (find,ls,grep,sed,..: add/improve any command you want!)
-- develop shell scripts (.orbsh/.sh)
-- Technical documentation
-- Automated Tests
-- Design any new feature
-- CI/CD (powered by GitHub workflows)
-- build binaries / distribs / .nupkg / setups / ...
-- Web site development (design, content update, ...)
-- internalionalization
-- translates
-<br>
-
-  **The project team like to meet people and wish to share pleasure of programming and technology enthusiasm, with fun and good spirit** 
-
-<br><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="tra4brains.png"/> | :warning: this project might be considered as a toy for old developer<br><br><img src="pegi46small.png"/><br><br>
--- | --
-
-  *Warning: due to the average age of our main contributors, this project might contains **vintage** architecture,design and code. Nevertheless the source code is intensively based on young devs preferred patterns, C# 8 language usage (intellisense agrees), and it pretends to fit to good practices and architecture guidelines.*
-
-<br><br>
-
-### ⚡ Orbital Shell preview
-
+### ⚡ Orbital Shell:
+- >Multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8 .NET 5.0 - compatible with modules and libraries targeting .NET Core 3.1 and .NET Standard 2.1** , developped using GitHub CI/CD (build,nuget packaging,storage)<br>
+This shell integrates the <u>most usefull shell commands</u>, and is intented to be extended by coding new commands or downloading new commands modules within a repository of modules. Of course it can be enterly customized by using the features integrated to the shell (<u>scripts, functions, commands, aliases, settings, parametrization,...</u>). Having a strong <u>ANSI/VT-100-220-300-500</u> support, it provides structured and colorized display of data and information (support of <u>ASCII, Unicode and 24 bits colors</u>). Includes a <u>Web API</u> for support of remote shell<br>
 ![orbsh running in visual studio debuger console](https://raw.githubusercontent.com/OrbitalShell/Orbital-Shell/master/assets/shell-wt-1.0.8-2.png)
+<br>
+    > <b>Contribute :</b><br>We are looking for **collaborators** to help evolving this tool !
+  >read the project README @ [https://github.com/OrbitalShell/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
+  visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
+  go to the project repository @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
 
+### ⚡ WPF widget dock:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/WidgetDockXTreme/master/Doc/preview.png" align="center" style="margin-left:auto;margin-right:auto"/>
 <br><br>
+provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">dev tutorial</a>
+</p>
 
 ### ⚡ Other works below
 
@@ -63,20 +28,12 @@ There are a various subjects that can be treated:
 - google (free) translator api
 - command pattern extension
 - mantisBT web server api (Swagger/OpenAPI)
-- multi modal mvvm model validation
-- various cli tools and libraries
+- multi modal MVVM model validation
+- various CLI tools and libraries (WPF,OAuth2,..)
 
-- a wpf widget dock:
 
-<br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/WidgetDockXTreme/master/Doc/preview.png" align="center" style="margin-left:auto;margin-right:auto"/>
-<br><br>
-provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">dev tutorial</a>
-</p>
-
-## About me
+## ⚡ About me
 
 [![Github](https://img.shields.io/github/followers/franck-gaspoz?label=Follow&style=social)](https://github.com/franck-gaspoz)
 [![Linkedin](https://img.shields.io/badge/-franck%20gaspoz-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/franckgaspoz/)
