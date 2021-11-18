@@ -9,7 +9,7 @@ This shell integrates the <u>most usefull shell commands</u>, and is intented to
 <p align="center">
 <img src="https://github.com/OrbitalShell/Orbital-Shell-Assets/blob/9aa1c9b4e36fae70f686d8b6e4cab4f81d59a6df/1.jpg" width="70%" align="center" style="margin-left:auto;margin-right:auto">
 <br>
-orbsh running in visual studio debuger console
+orbsh running in windows terminal console
 </p>
 <b>Contribute :</b><br>
 
