@@ -13,7 +13,7 @@ orbsh running in windows terminal console
 </p>
 <b>Contribute :</b><br>
 
-We are looking for **collaborators** (currently 13 members) to help evolving this tool !
+We are looking for **collaborators** (currently there is **13 members**) to help evolving this tool !
   - read the project README @ [https://github.com/OrbitalShell/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
   - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
   - go to the project main repository (6 at all) @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
