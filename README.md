@@ -18,7 +18,7 @@ We are looking for **collaborators** (currently there is **13 members**) to help
   - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
   - go to the project main repository (6 at all) @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
 
-### ⚡ GIS Tools - BRGM Viewer (WPF) :
+### ⚡ GIS Tools - Map Viewer (WPF) :
 
 Part of a new sery of GIS tools (Geographical Information Systems) that I recently started to develop, this software is a map viewer / downloader, that is a re-build and retro-engineering of the existing WEB site of the French BRGM (National Geographical Service) as a WPF Desktop application, allowing to introduce many improvments and functionnalities to the aging web site. Uses the DotSpatial.Projections library for geological coordinates computation
 <p align="center">
