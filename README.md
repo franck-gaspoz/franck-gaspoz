@@ -21,8 +21,9 @@ We are looking for **collaborators** (currently there is **13 members**) to help
 ### ⚡ GIS Tools - BRGM Viewer (WPF) :
 
 Part of a new sery of GIS (Gegraphical Information System) that I recently started to develop, this software is a map viewer / downloader, that is a re-build and retro-engineering of the existing WEB site of the French BRGM (National Geographical Service) as a WPF Desktop application, allowing to introduce many improvments and functionnalities to the aging web site. Make uses of the DotSpatial.Projections library for geological coordoniates computation
-
+<p align="center">
 <img src="https://github.com/franck-gaspoz/franck-gaspoz/blob/ca08439e496de48a125a99865d36332902fb7fc1/2021-11-24%2022_44_56-GIS%20Map%20Viewer.png" width="60%" align="center" style="margin-left:auto;margin-right:auto">
+</p>
 
 ### ⚡ Widget Dock (WPF) :
 
