@@ -30,7 +30,7 @@ GIS Map Viewer <i>(currently Private, will be opened soon)</i>
 ### ⚡ Widget Dock (WPF) :
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/WidgetDockXTreme/master/Doc/preview.png" width="80%" align="center" style="margin-left:auto;margin-right:auto"/>
+<img src="https://raw.githubusercontent.com/franck-gaspoz/WidgetDockXTreme/master/Doc/preview.png" width="60%" align="center" style="margin-left:auto;margin-right:auto"/>
 <br><br>
 provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">dev tutorial</a>
 </p>
