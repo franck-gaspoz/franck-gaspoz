@@ -37,6 +37,7 @@ provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/
 
 ### ⚡ Other works below
 
+- WPF Utilities (essential useful classes)
 - parsing any language with ANTLR C#
 - view model base implementation for WPF
 - google (free) translator api
