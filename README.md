@@ -1,7 +1,17 @@
 ### Hi there 👋
 <hr>
 
-### Find here some of my personnal,free and open source software repositories:
+###Windows Audio Session (WASAPI) sample:
+
+A sample of usage of Windows Audio Session WASAPI using BASS.NET - WPF C# .NET Framework 4.8
+
+- colored bars (vu-meters) showing captured device sound FFT and Sound Level
+
+Clean architecture approach, relying on the patterns MVVM, Command, Chain of responsability
+
+<img src="https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/c9d774c80f25d7ab12ad24073497b3eb12a08719/Doc/windows-audio-session-sample.gif" width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars">
+
+### ⚡ Orbital Shell:
 
 ### ⚡ Orbital Shell:
 Multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8 .NET 5.0 - compatible with modules and libraries targeting .NET Core 3.1 and .NET Standard 2.1** , developped using GitHub CI/CD (build,nuget packaging,storage)<br>
