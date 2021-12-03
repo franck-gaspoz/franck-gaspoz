@@ -1,5 +1,7 @@
 ### Hi there 👋
+#### Find here some of my personnal, free and open source software repositories:
 <hr>
+
 
 ### ⚡ Windows Audio Session (WASAPI) sample:
 
