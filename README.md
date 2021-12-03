@@ -11,7 +11,7 @@ Clean architecture approach, relying on the patterns MVVM, Command, Chain of res
 
 <p align="center">
 <img src="https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/c9d774c80f25d7ab12ad24073497b3eb12a08719/Doc/windows-audio-session-sample.gif" width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars">
-<br><br>
+<br>
 <i>a FFT having 512 bars and stereo vumeter</i>
 </p>
   
