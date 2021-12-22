@@ -69,7 +69,8 @@ provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/
 [![Github](https://img.shields.io/github/followers/franck-gaspoz?label=Follow&style=social)](https://github.com/franck-gaspoz)
 [![Linkedin](https://img.shields.io/badge/-franck%20gaspoz-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/franckgaspoz/)
 [![Mail](https://img.shields.io/badge/-franck.gaspoz@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:franck.gaspoz@gmail.com)
-<a href="https://franckgaspoz.fr" target="_new"><img src="https://img.shields.io/badge/web%20site-https%3A%2F%2Ffranckgaspoz.fr-brightgreen"></a>
+<a href="https://franckgaspoz.fr/en" target="_new"><img src="https://img.shields.io/badge/web%20site-https%3A%2F%2Ffranckgaspoz.fr-brightgreen"></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=franck-gaspoz">
 
 <br/>
 
