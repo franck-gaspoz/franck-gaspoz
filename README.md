@@ -22,7 +22,7 @@ A few samples to demonstrates the use of tensorflow and keras, throught basic sa
 <i>the classification results given by the HTTP query JSon response</i>
 </p>
 
-- read to the project README @ [https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md](https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md)
+- read the project README @ [https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md](https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md)
 
 ### ⚡ Windows Audio Session (WASAPI) sample:
 
@@ -42,7 +42,7 @@ Clean architecture & SOLID approach: complete discoupling between data,data prov
 - User Controls, Resources/Styles, Converters, View Models, Data annotations, Data validators, Data binding, Commands, Visual Drawings
   
 
-- read to the project README @ [https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
+- read the project README @ [https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
 
 ### ⚡ Orbital Shell:
 Multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8 .NET 5.0 - compatible with modules and libraries targeting .NET Core 3.1 and .NET Standard 2.1** , developped using GitHub CI/CD (build,nuget packaging,storage)<br>
@@ -86,7 +86,7 @@ a complete set of essential components
 </p>
 🚧 still under construction 🚧 nuget available 🚧
 
-- read to the project README @ [https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
+- read the project README @ [https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
 
 ### ⚡ Other works below
 
