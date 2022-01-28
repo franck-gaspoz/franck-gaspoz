@@ -7,7 +7,7 @@
 A few samples to demonstrates the use of tensorflow and keras, throught basic samples and for image recognition, with a python WEB API that serves the image recognition functionnality
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/server.png"  width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/server.png"  width="50%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
 <br>
 <i>running Uvicorn FastAPI serving the image recognition functionnality using VGG16</i>
 </p>
@@ -17,10 +17,12 @@ A few samples to demonstrates the use of tensorflow and keras, throught basic sa
 <i>image to be classified</i>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/mug-prediction.png"  width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/mug-prediction.png"  width="50%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
 <br>
 <i>the classification results given by the HTTP query JSon response</i>
 </p>
+
+- read to the project README @ [https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md](https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md)
 
 ### ⚡ Windows Audio Session (WASAPI) sample:
 
@@ -36,9 +38,12 @@ A sample of usage of Windows Audio Session WASAPI using BASS.NET - WPF C# .NET F
 
 Run the project, select your audio device, and this tool will listen to the device internal output and animates some of the sound properties. The library BASS.NET is used to interface C# with the WASAPI Windows library.
 
-Clean architecture approach: complete discoupling between data,data providers,data transformers,ui controls,drawers,view models,application logic. Relying on the patterns MVVM, Command and Chain of responsability. Implements several importants aspects of WPF programming:
+Clean architecture & SOLID approach: complete discoupling between data,data providers,data transformers,ui controls,drawers,view models,application logic. Relying on the patterns MVVM, Command and Chain of responsability. Implements several importants aspects of WPF programming:
 - User Controls, Resources/Styles, Converters, View Models, Data annotations, Data validators, Data binding, Commands, Visual Drawings
   
+
+- read to the project README @ [https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
+
 ### ⚡ Orbital Shell:
 Multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8 .NET 5.0 - compatible with modules and libraries targeting .NET Core 3.1 and .NET Standard 2.1** , developped using GitHub CI/CD (build,nuget packaging,storage)<br>
 This shell integrates the <u>most usefull shell commands</u>, and is intented to be extended by coding new commands or downloading new commands modules within a repository of modules. Of course it can be enterly customized by using the features integrated to the shell (<u>scripts, functions, commands, aliases, settings, parametrization,...</u>). Having a strong <u>ANSI/VT-100-220-300-500</u> support, it provides structured and colorized display of data and information (support of <u>ASCII, Unicode and 24 bits colors</u>). Includes a <u>Web API</u> for support of remote shell<br><br>
