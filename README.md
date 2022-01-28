@@ -76,9 +76,20 @@ GIS Map Viewer <i>(currently Private, will be opened soon)</i>
 provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">dev tutorial</a>
 </p>
 
+### ⚡ WPF Utilities (WPF) :
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/WPFUtilities/main/Doc/app-sample-preview.png" width="70%" align="center" style="margin-left:auto;margin-right:auto"/>
+<br><br>
+WPF made simple with a SOLID approach for MVVM<br>
+a complete set of essential components
+</p>
+🚧 still under construction 🚧 nuget available 🚧
+
+- read to the project README @ [https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
+
 ### ⚡ Other works below
 
-- WPF Utilities (essential useful classes)
 - parsing any language with ANTLR C#
 - view model base implementation for WPF
 - google (free) translator api
