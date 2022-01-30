@@ -6,21 +6,28 @@
 
 A few samples to demonstrates the use of tensorflow and keras, throught basic samples and for image recognition, with a python WEB API that serves the image recognition functionnality
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/server.png"  width="50%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
-<br>
+<table width="100%" style="width:100%" border="0">
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/server.png"  width="100%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
+<p align="center"> 
 <i>running Uvicorn FastAPI serving the image recognition functionnality using VGG16</i>
 </p>
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/CNN-VGG-mug.jpg"  width="200px" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
 <p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/CNN-VGG-mug.jpg"  width="20%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
-<br>
 <i>image to be classified</i>
 </p>
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/mug-prediction.png"  width="100%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
 <p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/mug-prediction.png"  width="50%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
-<br>
 <i>the classification results given by the HTTP query JSon response</i>
-</p>
+</p>              
+</td>
+</tr>
+</table>
 
 - read the project README @ [https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md](https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md)
 
