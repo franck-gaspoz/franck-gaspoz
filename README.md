@@ -103,7 +103,7 @@ a complete set of essential components
 - command pattern extension
 - mantisBT web server api (Swagger/OpenAPI)
 - multi modal MVVM model validation
-- various CLI tools and libraries (WPF,OAuth2,..)
+- various CLI tools and libraries (WPF,Log,..)
 
 
 ## ⚡ About me
