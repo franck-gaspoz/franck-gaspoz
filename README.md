@@ -2,6 +2,12 @@
 ### Find here some of my personnal, free and open source software repositories:
 <hr>
 
+### ⚡ WindowsAudioSession 1.0 binaries are now available here:
+
+https://github.com/franck-gaspoz/WindowsAudioSessionSample/releases/download/v1.0/WindowsAudioSession_1.0.7z
+
+unzip anywhere and run WindowsAudioSession.exe. Select your audio device in the top left list and press the button 'Start'
+
 ### ⚡ <u>Tensorflow Keras deep learning samples & image prediction</u>
 
 A few samples to demonstrates the use of tensorflow and keras, throught basic samples and for image recognition, with a python WEB API that serves the image recognition functionnality
