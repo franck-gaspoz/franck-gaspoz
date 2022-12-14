@@ -2,7 +2,7 @@
 ### Find here some of my personnal, free and open source software repositories:
 <hr>
 
-### ⚡ WindowsAudioSession 1.0 binaries are now available here:
+### ⚡ Windows Audio Session 1.0 binaries are now available here:
 
 https://github.com/franck-gaspoz/WindowsAudioSessionSample/releases/download/v1.0/WindowsAudioSession_1.0.7z
 
