@@ -2,9 +2,18 @@
 ### Find here some of my personnal, free and open source software repositories:
 <hr>
 
-### ⚡Command line parser for .Net 6:
+### ⚡Ansi / Vt for console applications
 
-The library provides functionalities needed to build console applications running in a terminal (WSL/WSL2, cmd.exe, ConEmu, bash, ...) with text interface. That includes:
+Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plateform (windows, linux, osx, arm) console applications using C# and .NET Core 6:
+- markup language to embed ANSI VT *orders* in any string
+- ANSI parser
+- strings shortcuts and API methods
+  
+read the project README at [https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
+
+### ⚡Command line parser:
+
+This .Net 6 library provides functionalities needed to build console applications running in a terminal (Windows terminal, cmd.exe, ConEmu, bash, ...) with text interface. That includes:
 - parsing command line arguments
 - command pattern helps implementing commands binded to methods from command line in a simple and regular way using a fluent syntax
 - multi-language commands help configuration files
