@@ -2,11 +2,20 @@
 ### Find here some of my personnal, free and open source software repositories:
 <hr>
 
+### ⚡Command line parser for .Net 6:
+
+The library provides functionalities needed to build console applications running in a terminal (WSL/WSL2, cmd.exe, ConEmu, bash, ...) with text interface. That includes:
+- parsing command line arguments
+- command pattern helps implementing commands binded to methods from command line in a simple and regular way using a fluent syntax
+- multi-language commands help configuration files
+- automatic help command
+- provided full support of AnsiVtConsole.NetCore
+
 ### ⚡ Windows Audio Session 1.0 binaries are now available here:
 
 https://github.com/franck-gaspoz/WindowsAudioSessionSample/releases/download/v1.0/WindowsAudioSession_1.0.7z
 
-unzip anywhere and run WindowsAudioSession.exe. Select your audio device in the top left list and press the button 'Start'
+Unzip anywhere and run WindowsAudioSession.exe. Select your audio device in the top left list and press the button 'Start'
 
 ### ⚡ <u>Tensorflow Keras deep learning samples & image prediction</u>
 
