@@ -11,6 +11,8 @@ The library provides functionalities needed to build console applications runnin
 - automatic help command
 - provided full support of AnsiVtConsole.NetCore
 
+read the project README at [https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
+
 ### ⚡ Windows Audio Session 1.0 binaries are now available here:
 
 https://github.com/franck-gaspoz/WindowsAudioSessionSample/releases/download/v1.0/WindowsAudioSession_1.0.7z
