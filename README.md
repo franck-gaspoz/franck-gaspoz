@@ -121,7 +121,7 @@ a complete set of essential components
 
 - read the project README @ [https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
 
-### ⚡ <u>Other works below</u>
+### ⚡ <u>Others works below</u>
 
 - parsing any language with ANTLR C#
 - view model base implementation for WPF
