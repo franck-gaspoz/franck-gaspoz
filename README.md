@@ -9,6 +9,8 @@ Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plate
 - ANSI parser
 - strings shortcuts and API methods
   
+![title](https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png "title")  
+
 read the project README at [https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
 
 ### ⚡Command line parser:
