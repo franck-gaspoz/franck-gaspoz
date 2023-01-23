@@ -5,9 +5,10 @@
 ### ⚡Ansi / Vt Console for CLI
 
 Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plateform (windows, linux, osx, arm) console applications using C# and .NET Core 6:
-- markup language to embed ANSI VT *orders* in any string
-- ANSI parser
+- **markup** language to embed **ANSI VT** sequences in any string using a fluent markup language
+- **ANSI/Vt parser** that can identify/remove escape sequences in a text
 - strings shortcuts and API methods
+- **widgets** : visual elements with live update, animations, thread safe, combinables together
   
 ![title](https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png "title")  
 
