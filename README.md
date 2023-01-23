@@ -11,6 +11,8 @@ Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plate
   
 ![title](https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png "title")  
 
+![example7](https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/example7.png "example7")
+
 read the project README at [https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
 
 ### ⚡Command line parser:
