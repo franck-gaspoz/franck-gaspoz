@@ -2,7 +2,7 @@
 ### Find here some of my personnal, free and open source software repositories:
 <hr>
 
-### ⚡Ansi / Vt Console for CLI
+### ⚡Ansi / Vt Console for console applications / CLI
 
 Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plateform (windows, linux, osx, arm) console applications using C# and .NET Core 6:
 - **markup** language to embed **ANSI VT** sequences in any string using a fluent markup language
