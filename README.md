@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Find here some of my personnal, free and open source software repositories:
-<hr>
+___
 
 ### ⚡Ansi / Vt Console for console applications / CLI
 
@@ -16,6 +16,8 @@ Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plate
 
 read the project README at [https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
 
+___
+
 ### ⚡Command line parser:
 
 This .Net 6 library provides functionalities needed to build console applications running in a terminal (Windows terminal, cmd.exe, ConEmu, bash, ...) with text interface. That includes:
@@ -27,11 +29,15 @@ This .Net 6 library provides functionalities needed to build console application
 
 read the project README at [https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
 
+___
+
 ### ⚡ Windows Audio Session 1.0 binaries are now available here:
 
 https://github.com/franck-gaspoz/WindowsAudioSessionSample/releases/download/v1.0/WindowsAudioSession_1.0.7z
 
 Unzip anywhere and run WindowsAudioSession.exe. Select your audio device in the top left list and press the button 'Start'
+
+___
 
 ### ⚡ <u>Tensorflow Keras deep learning samples & image prediction</u>
 
@@ -62,6 +68,8 @@ A few samples to demonstrates the use of tensorflow and keras, throught basic sa
 
 - read the project README @ [https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md](https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md)
 
+___
+
 ### ⚡ <u>Windows Audio Session (WASAPI) sample:</u>
 
 A sample of usage of Windows Audio Session WASAPI using BASS.NET - WPF C# .NET Framework 4.8
@@ -82,6 +90,8 @@ Clean architecture & SOLID approach: complete discoupling between data,data prov
 
 - read the project README @ [https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
 
+___
+
 ### ⚡ <u>Orbital Shell:</u>
 Multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8 .NET 5.0 - compatible with modules and libraries targeting .NET Core 3.1 and .NET Standard 2.1** , developped using GitHub CI/CD (build,nuget packaging,storage)<br>
 This shell integrates the <u>most usefull shell commands</u>, and is intented to be extended by coding new commands or downloading new commands modules within a repository of modules. Of course it can be enterly customized by using the features integrated to the shell (<u>scripts, functions, commands, aliases, settings, parametrization,...</u>). Having a strong <u>ANSI/VT-100-220-300-500</u> support, it provides structured and colorized display of data and information (support of <u>ASCII, Unicode and 24 bits colors</u>). Includes a <u>Web API</u> for support of remote shell<br><br>
@@ -97,6 +107,8 @@ We are looking for **collaborators** (currently there is **13 members**) to help
   - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
   - go to the project main repository (6 at all) @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
 
+___
+
 ### ⚡ <u>GIS Tools - Map Viewer (WPF) :</u>
 
 Part of a new sery of GIS tools (Geographical Information Systems) that I recently started to develop, this software is a map viewer / downloader, that is a re-build and retro-engineering of the existing WEB site of the French BRGM (National Geographical Service) as a WPF Desktop application, allowing to introduce many improvments and functionnalities to the aging web site. Uses the DotSpatial.Projections library for geological coordinates computation
@@ -106,6 +118,8 @@ Part of a new sery of GIS tools (Geographical Information Systems) that I recent
 GIS Map Viewer <i>(currently Private, will be opened soon)</i>
 </p>
 
+___
+
 ### ⚡ <u>Widget Dock (WPF) :</u>
 
 <p align="center">
@@ -113,6 +127,8 @@ GIS Map Viewer <i>(currently Private, will be opened soon)</i>
 <br><br>
 provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">dev tutorial</a>
 </p>
+
+___
 
 ### ⚡ <u>WPF Utilities (WPF) :</u>
 
@@ -126,6 +142,8 @@ a complete set of essential components
 
 - read the project README @ [https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
 
+___
+
 ### ⚡ <u>Others works below</u>
 
 - parsing any language with ANTLR C#
@@ -136,6 +154,7 @@ a complete set of essential components
 - multi modal MVVM model validation
 - various CLI tools and libraries (WPF,Log,..)
 
+___
 
 ## ⚡ About me
 
