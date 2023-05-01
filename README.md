@@ -128,6 +128,11 @@ ___
 provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">dev tutorial</a>
 </p>
 
+- 100% WPF - XAML - intensivelly based on custom wpf behaviors
+- Windows 10 Desktop .Net Core 3.1 WPF application (use of PInvoke)
+- this software is to be completed - DIY 😄
+- we should develop widgets now!
+
 ___
 
 ### ⚡ <u>WPF Utilities (WPF) :</u>
