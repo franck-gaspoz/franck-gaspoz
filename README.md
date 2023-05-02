@@ -2,6 +2,21 @@
 ### Find here some of my personnal, free and open source software repositories:
 ___
 
+### ⚡NodeJS Electron Forge app template
+
+This template repository provides a ready to launch NodeJS Electron Forge sample application based on **webpack** and **TypeScript**
+
+Read the project README at [https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/electron-test-app/main/assets/Node%20JS%20Electron%20Forge%20sample%20app.png" align="center" style="margin-left:auto;margin-right:auto" alt="Electron + Chrome running on Windows 11">
+<br>
+<i>Electron + Chrome running on Windows 11</i>
+</p>
+
+___
+
+
 ### ⚡Ansi / Vt Console for console applications / CLI
 
 Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plateform (windows, linux, osx, arm) console applications using C# and .NET Core 6:
