@@ -15,8 +15,12 @@ Read the project README at [https://github.com/franck-gaspoz/electron-forge-app-
 <i>Electron + Chrome running on Windows 11</i>
 
 </p>
+<br>
+<p align="center">
 
 ![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=nodejs) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285f65&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285f65&style=plastic&logo=osx)
+</p>
+
 ___
 
 
