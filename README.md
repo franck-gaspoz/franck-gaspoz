@@ -3,16 +3,16 @@
 ### Find here some of my personnal, free and open source software repositories:
 ___
 
-### ⚡NodeJS Electron Forge application template
+### ⚡NodeJs Electron Forge application template
 
-This template repository provides a ready to launch NodeJS Electron Forge sample application based on **webpack** and **TypeScript**
+This template repository provides a ready to launch NodeJs Electron Forge sample application based on **webpack** and **TypeScript**
 
 Read the project [readme](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
 
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/electron-forge-app-template/main/assets/Node%20JS%20Electron%20Forge%20sample%20app.png" width="60%" align="center" style="margin-left:auto;margin-right:auto" alt="Electron + Chrome running on Windows 11">
-<br/>
+<br/><br/>
 <i>Electron + Chrome running on Windows 11</i>
 </p>
 <br>
@@ -42,14 +42,15 @@ read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore
 <img width="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png" style="margin-left:auto;margin-right:auto" alt="application demo title in console">
 
 <img width="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/ansivtconsole.netcore.widget.gif" alt="demo console output">
-
+<br/>
+<i>sample demonstration running text widgets</i>
 </div>
 
 <br>
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![.net](https://img.shields.io/static/v1?label=&message=.NET&color=307639&style=plastic&logo=.net) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![.ANSI/VT](https://img.shields.io/static/v1?label=&message=ANSI/VT&color=cdf998&style=plastic&logo=) ![shell](https://img.shields.io/static/v1?label=&message=Shell&color=cdf998&style=plastic&logo=) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=)
+![.net](https://img.shields.io/static/v1?label=&message=.NET%206&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![.ANSI/VT](https://img.shields.io/static/v1?label=&message=ANSI/VT&color=cdf998&style=plastic&logo=) ![shell](https://img.shields.io/static/v1?label=&message=Shell&color=cdf998&style=plastic&logo=) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=)
 
 </div>
 
@@ -63,7 +64,7 @@ This .Net 6 library provides functionalities needed to build console application
 - command pattern helps implementing commands binded to methods from command line in a simple and regular way using a fluent syntax
 - multi-language commands help configuration files
 - automatic help command
-- provided full support of [https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md](AnsiVtConsole.NetCore)
+- provided full support of [AnsiVtConsole.NetCore]([AnsiVtConsole.NetCore](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md))
 
 read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
 
@@ -73,7 +74,7 @@ read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/b
 <td>
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-1.png" width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="">
-<br><i>the way a command syntax can be specified</i>
+<br><br><i>the way a command syntax can be specified</i>
 </p>
 </td>
 <td>
@@ -87,7 +88,7 @@ read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/b
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![.net](https://img.shields.io/static/v1?label=&message=.NET&color=307639&style=plastic&logo=.net) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=)
+![.net](https://img.shields.io/static/v1?label=&message=.NET%206&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=)
 
 </div>
 
@@ -105,7 +106,7 @@ ___
 
 ### ⚡ Tensorflow Keras deep learning samples & image prediction
 
-A few samples to demonstrates the use of tensorflow and keras, throught basic samples and for image recognition, with a python WEB API that serves the image recognition functionnality
+A few samples to demonstrates the use of tensorflow and keras, throught basic samples and for image recognition, with a python WEB API that serves the image recognition functionnality. Project doc provides explanations and graphical views about Deep Neural Networks
 
 read the project [readme](https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md)
 
@@ -134,7 +135,7 @@ read the project [readme](https://github.com/franck-gaspoz/TensorflowKeras_DeepL
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![tensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=307639&style=plastic&logo=tensorFlow) ![keras](https://img.shields.io/static/v1?label=&message=Keras&color=307639&style=plastic&logo=keras) ![shap](https://img.shields.io/static/v1?label=&message=SHAP&color=307639&style=plastic&logo=shap) ![pydot](https://img.shields.io/static/v1?label=&message=pydot&color=307639&style=plastic&logo=pydot) ![graphviz](https://img.shields.io/static/v1?label=&message=graphviz&color=307639&style=plastic&logo=graphviz) ![fastapi](https://img.shields.io/static/v1?label=&message=fastapi&color=307639&style=plastic&logo=fastapi) ![uvicorn](https://img.shields.io/static/v1?label=&message=uvicorn&color=307639&style=plastic&logo=uvicorn) ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=)
+![tensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=307639&style=plastic&logo=tensorFlow) ![keras](https://img.shields.io/static/v1?label=&message=Keras&color=307639&style=plastic&logo=keras) ![shap](https://img.shields.io/static/v1?label=&message=SHAP&color=307639&style=plastic&logo=shap) ![pydot](https://img.shields.io/static/v1?label=&message=pydot&color=307639&style=plastic&logo=pydot) ![graphviz](https://img.shields.io/static/v1?label=&message=graphviz&color=307639&style=plastic&logo=graphviz) ![fastapi](https://img.shields.io/static/v1?label=&message=fastapi&color=307639&style=plastic&logo=fastapi) ![uvicorn](https://img.shields.io/static/v1?label=&message=uvicorn&color=307639&style=plastic&logo=uvicorn) ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![rest](https://img.shields.io/static/v1?label=&message=REST&color=cdf998&style=plastic&logo=&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=)
 
 </div>
 
@@ -146,19 +147,24 @@ A sample of usage of Windows Audio Session WASAPI using BASS.NET - WPF C# .NET F
 
 - colored bars (vu-meters) showing captured device sound FFT , Sound Level and sound wave
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/WindowsAudioSessionSample/main/Doc/windows-audio-session-sample3.gif"  width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
-<br>
-<i>a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level + sound wave</i>
-</p>
-
 Run the project, select your audio device, and this tool will listen to the device internal output and animates some of the sound properties. The library BASS.NET is used to interface C# with the WASAPI Windows library.
 
 Clean architecture & SOLID approach: complete discoupling between data,data providers,data transformers,ui controls,drawers,view models,application logic. Relying on the patterns MVVM, Command and Chain of responsability. Implements several importants aspects of WPF programming:
-- User Controls, Resources/Styles, Converters, View Models, Data annotations, Data validators, Data binding, Commands, Visual Drawings
-  
+- User Controls, Resources/Styles, Converters, View Models, Data annotations, Data validators, Data binding, Commands, Visual Drawings  
 
-- read the project README @ [https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
+- read the project [readme](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/WindowsAudioSessionSample/main/Doc/windows-audio-session-sample3.gif"  width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
+<br><br>
+<i>a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level + sound wave</i>
+</p>
+
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
+![.netframework](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![bass.net](https://img.shields.io/static/v1?label=&message=BASS.NET&color=307639&style=plastic&logo=) ![wasapi](https://img.shields.io/static/v1?label=&message=WASAPI&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows)
+
+</div>
 
 ___
 
@@ -168,54 +174,77 @@ This shell integrates the most usefull shell commands, and is intented to be ext
 <p align="center">
 <img src="https://raw.githubusercontent.com/OrbitalShell/Orbital-Shell-Assets/9aa1c9b4e36fae70f686d8b6e4cab4f81d59a6df/1.jpg" width="70%" align="center" style="margin-left:auto;margin-right:auto">
 <br><br>
-orbsh running in windows terminal console
+<i>orbsh running in windows terminal console</i>
 </p>
 <b>Contribute :</b><br>
 
 We are looking for **collaborators** (currently there is **13 members**) to help evolving this tool !
-  - read the project README @ [https://github.com/OrbitalShell/orbital-shell/blob/master/README.md](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
-  - visit the project's web site @ [https://OrbitalShell.github.io/orbital-shell/](https://orbitalshell.github.io/OrbitalShell/)
-  - go to the project main repository (6 at all) @ [https://github.com/OrbitalShell/orbital-shell/](https://github.com/OrbitalShell/Orbital-Shell/)
+  - read the project [readme](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
+- visit the [project's web site](https://orbitalshell.github.io/OrbitalShell/)
+- go to the [project main repository (6 at all)](https://github.com/OrbitalShell/Orbital-Shell/)
 
 ___
 
 ### ⚡ GIS Tools - Map Viewer (WPF)
 
-Part of a new sery of GIS tools (Geographical Information Systems) that I recently started to develop, this software is a map viewer / downloader, that is a re-build and retro-engineering of the existing WEB site of the French BRGM (National Geographical Service) as a WPF Desktop application, allowing to introduce many improvments and functionnalities to the aging web site. Uses the DotSpatial.Projections library for geological coordinates computation
+This software is a GIS tool (Geographical Information Systems) map viewer / downloader , that is a re-build and retro-engineering of the existing WEB site of the French **BRGM** (National Geographical Service) as a **WPF** Desktop application, allowing to introduce many improvments and functionnalities to the aging web site. Uses the `DotSpatial.Projections` library for geological coordinates computation
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/ca08439e496de48a125a99865d36332902fb7fc1/2021-11-24%2022_44_56-GIS%20Map%20Viewer.png" width="60%" align="center" style="margin-left:auto;margin-right:auto">
-<br><br>
-GIS Map Viewer <i>(currently Private, will be opened soon)</i>
+
+<br>
+<br>
+<i>GIS BRGM Map Viewer (currently Private, will be opened soon)</i>
 </p>
+
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
+![.net](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![dotspatial.projections](https://img.shields.io/static/v1?label=&message=DotSpatial.Projections&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows)
+
+</div>
 
 ___
 
 ### ⚡ Widget Dock (WPF)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/WidgetDockXTreme/master/Doc/preview.png" width="60%" align="center" style="margin-left:auto;margin-right:auto"/>
-<br><br>
-provided with a <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">dev tutorial</a>
-</p>
+read project the [readme](https://github.com/franck-gaspoz/WidgetDockXTreme/blob/master/README.md)
 
 - 100% WPF - XAML - intensivelly based on custom wpf behaviors
 - Windows 10 Desktop .Net Core 3.1 WPF application (use of PInvoke)
 - this software is to be completed - DIY 😄
 - we should develop widgets now!
+- check the <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">project development tutorial</a>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/WidgetDockXTreme/master/Doc/preview.png" width="60%" align="center" style="margin-left:auto;margin-right:auto"/>
+</p>
+
+<br>
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
+![.net](https://img.shields.io/static/v1?label=&message=.NET%203.1&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![pinvoke](https://img.shields.io/static/v1?label=&message=PInvoke&color=307639&style=plastic&logo=) ![winapi](https://img.shields.io/static/v1?label=&message=WINAPI&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows)
+
+</div>
 
 ___
 
 ### ⚡ WPF Utilities (WPF)
 
+a complete set of essential components
+
+read project the [readme](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/WPFUtilities/main/Doc/app-sample-preview.png" width="70%" align="center" style="margin-left:auto;margin-right:auto"/>
 <br><br>
-WPF made simple with a SOLID approach for MVVM<br>
-a complete set of essential components
-</p>
-🚧 still under construction 🚧 nuget available 🚧
+<i>WPF made simple with a SOLID approach for MVVM<br>🚧 still under construction 🚧</i>
 
-- read the project README @ [https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
+<br>
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
+![.net](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![dotspatial.projections](https://img.shields.io/static/v1?label=&message=DotSpatial.Projections&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows)
+
+</div>
 
 ___
 
