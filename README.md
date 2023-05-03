@@ -73,7 +73,7 @@ read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/b
 <td>
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-1.png" width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="">
-<i>the way a command syntax can be specified</i>
+<br><i>the way a command syntax can be specified</i>
 </p>
 </td>
 <td>
