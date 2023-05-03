@@ -36,7 +36,7 @@ Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plate
   
 read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
 
-<div align="center" style="margin-left:auto;margin-right:auto">
+<div align="center" style="background-color:red;smargin-left:auto;margin-right:auto">
 
 <img width="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png" style="margin-left:auto;margin-right:auto" alt="application demo title in console">
 
