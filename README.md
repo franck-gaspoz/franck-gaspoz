@@ -7,7 +7,7 @@ ___
 
 This template repository provides a ready to launch NodeJS Electron Forge sample application based on **webpack** and **TypeScript**
 
-Read the project README at [https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
+Read the project [readme](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
 
 <br>
 <p align="center">
@@ -19,7 +19,7 @@ Read the project README at [https://github.com/franck-gaspoz/electron-forge-app-
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=nodejs) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![webpack](https://img.shields.io/static/v1?label=&message=electron%20Forge&color=52985b&style=plastic&logo=electron) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285f65&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285f65&style=plastic&logo=osx)
+![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=nodejs) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![webpack](https://img.shields.io/static/v1?label=&message=electron&color=yellow&style=plastic&logo=electron) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285f65&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285f65&style=plastic&logo=osx)
 
 </div>
 
@@ -34,11 +34,23 @@ Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plate
 - strings shortcuts and API methods
 - **widgets** : visual elements with live update, animations, thread safe, combinables together
   
-![title](https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png "title")  
+read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
+
+<div align="center" style="margin-left:auto;margin-right:auto">
+
+<img width="743" maxwidth="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png" style="margin-left:auto;margin-right:auto" alt="view of title in console">
 
 ![widget output](https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/ansivtconsole.netcore.widget.gif "output")
 
-read the project README at [https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
+</div>
+
+<br>
+
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
+![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=.net) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![webpack](https://img.shields.io/static/v1?label=&message=electron&color=yellow&style=plastic&logo=electron) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285f65&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285f65&style=plastic&logo=osx)
+
+</div>
 
 ___
 
