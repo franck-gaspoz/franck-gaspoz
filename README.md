@@ -65,7 +65,7 @@ This .Net 6 library provides functionalities needed to build console application
 
 read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
 
-<table width="100%" style="width:100%;border:red solid 10px" border="0">
+<table width="100%" border="0">
 <tr>
 <td>
 <img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-1.png" width="100%" align="center" style="margin-left:auto;margin-right:auto" alt="">
@@ -76,7 +76,7 @@ read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/b
 <td>
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-2.png" align="center" style="margin-left:auto;margin-right:auto" alt="">
-<br><br><i>the corresponding method implementing the command syntax</i>
+<br><br><i>the corresponding method<br>implementing the command syntax</i>
 </p>
 </td>
 </tr>
