@@ -3,23 +3,24 @@
 ### Find here some of my personnal, free and open source software repositories:
 ___
 
-### ⚡NodeJS Electron Forge app template
+### ⚡NodeJS Electron Forge application template
 
 This template repository provides a ready to launch NodeJS Electron Forge sample application based on **webpack** and **TypeScript**
 
 Read the project README at [https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
 
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/electron-forge-app-template/main/assets/Node%20JS%20Electron%20Forge%20sample%20app.png" width="60%" align="center" style="margin-left:auto;margin-right:auto" alt="Electron + Chrome running on Windows 11">
 <br/>
 <i>Electron + Chrome running on Windows 11</i>
-
 </p>
 <br>
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=nodejs) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285f65&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285f65&style=plastic&logo=osx)
+![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=nodejs) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![webpack](https://img.shields.io/static/v1?label=&message=electron%20Forge&color=52985b&style=plastic&logo=electron) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285f65&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285f65&style=plastic&logo=osx)
+
 </div>
 
 ___
