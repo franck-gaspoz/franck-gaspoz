@@ -9,7 +9,7 @@ This template repository provides a ready to launch NodeJS Electron Forge sample
 Read the project README at [https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/electron-forge-app-template/main/assets/Node%20JS%20Electron%20Forge%20sample%20app.png" width="55%" align="center" style="margin-left:auto;margin-right:auto" alt="Electron + Chrome running on Windows 11">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/electron-forge-app-template/main/assets/Node%20JS%20Electron%20Forge%20sample%20app.png" width="60%" align="center" style="margin-left:auto;margin-right:auto" alt="Electron + Chrome running on Windows 11">
 <br>
 <i>Electron + Chrome running on Windows 11</i>
 </p>
