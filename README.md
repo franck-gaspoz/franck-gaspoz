@@ -63,7 +63,26 @@ This .Net 6 library provides functionalities needed to build console application
 - automatic help command
 - provided full support of AnsiVtConsole.NetCore
 
-read the project README at [https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
+read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
+
+<table width="100%" style="width:100%;border:none" border="0">
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-1.png" width="100%" align="center" style="margin-left:auto;margin-right:auto" alt="">
+<p align="center">
+<i>running Uvicorn FastAPI serving the image recognition functionnality using VGG16</i>
+</p>
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-1.png" width="170px" align="center" style="margin-left:auto;margin-right:auto" alt="">
+<p align="center">
+<i>image to be classified</i>
+</p>
+</td>
+</tr>
+</table>
+
+![.net](https://img.shields.io/static/v1?label=&message=.NET&color=307639&style=plastic&logo=.net) ![.ANSI/VT](https://img.shields.io/static/v1?label=&message=ANSI/VT&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=yellow&style=plastic&logo=csharp) ![shell](https://img.shields.io/static/v1?label=&message=Shell&color=005588&style=plastic&logo=) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=005588&style=plastic&logo=json) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=)
 
 ___
 
