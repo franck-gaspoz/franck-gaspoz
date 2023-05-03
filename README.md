@@ -65,18 +65,18 @@ This .Net 6 library provides functionalities needed to build console application
 
 read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
 
-<table width="100%" style="width:100%;border:none" border="0">
+<table width="100%" style="width:100%;border:red solid 10px" border="0">
 <tr>
 <td>
 <img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-1.png" width="100%" align="center" style="margin-left:auto;margin-right:auto" alt="">
 <p align="center">
-<i>running Uvicorn FastAPI serving the image recognition functionnality using VGG16</i>
+<i>the way a command syntax is specified</i>
 </p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-1.png" width="170px" align="center" style="margin-left:auto;margin-right:auto" alt="">
 <p align="center">
-<i>image to be classified</i>
+<img src="https://raw.githubusercontent.com/franck-gaspoz/franck-gaspoz/master/cmdline-.net-2.png" align="center" style="margin-left:auto;margin-right:auto" alt="">
+<br><br><i>the corresponding method implementing the command syntax</i>
 </p>
 </td>
 </tr>
