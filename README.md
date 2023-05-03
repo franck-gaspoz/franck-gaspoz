@@ -19,7 +19,7 @@ Read the project [readme](https://github.com/franck-gaspoz/electron-forge-app-te
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=nodejs) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![webpack](https://img.shields.io/static/v1?label=&message=electron&color=yellow&style=plastic&logo=electron) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285f65&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285f65&style=plastic&logo=osx)
+![node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=307639&style=plastic&logo=node.js) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=307639&style=plastic&logo=webpack) ![electron](https://img.shields.io/static/v1?label=&message=electron&color=307639&style=plastic&logo=electron) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=005588&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=005588&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx)
 
 </div>
 
@@ -28,7 +28,7 @@ ___
 
 ### ⚡Ansi / Vt Console for console applications / CLI
 
-Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plateform (windows, linux, osx, arm) console applications using C# and .NET Core 6:
+This library provides ANSI VT support (cursor,colors,screen size) for multi-plateform (windows, linux, osx, arm) console applications using C# and .NET Core 6:
 - **markup** language to embed **ANSI VT** sequences in any string using a fluent markup language
 - **ANSI/Vt parser** that can identify/remove escape sequences in a text
 - strings shortcuts and API methods
@@ -36,7 +36,7 @@ Ths library provides ANSI VT support (cursor,colors,screen size) for multi-plate
   
 read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
 
-<div align="center" style="background-color:red;smargin-left:auto;margin-right:auto">
+<div align="center" style="margin-left:auto;margin-right:auto">
 
 <img width="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png" style="margin-left:auto;margin-right:auto" alt="application demo title in console">
 
@@ -48,7 +48,7 @@ read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=.net) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![webpack](https://img.shields.io/static/v1?label=&message=electron&color=yellow&style=plastic&logo=electron) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=005588&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285f65&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285f65&style=plastic&logo=osx)
+![.net](https://img.shields.io/static/v1?label=&message=.NET&color=307639&style=plastic&logo=.net) ![.ANSI/VT](https://img.shields.io/static/v1?label=&message=ANSI/VT&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=005588&style=plastic&logo=csharp) ![shell](https://img.shields.io/static/v1?label=&message=Shell&color=005588&style=plastic&logo=) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=005588&style=plastic&logo=json) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=osx) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=)
 
 </div>
 
