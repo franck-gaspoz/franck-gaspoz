@@ -38,9 +38,9 @@ read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore
 
 <div align="center" style="margin-left:auto;margin-right:auto">
 
-<img width="743" maxwidth="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png" style="margin-left:auto;margin-right:auto" alt="view of title in console">
+<img width="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/title.png" style="margin-left:auto;margin-right:auto" alt="application demo title in console">
 
-<img width="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/ansivtconsole.netcore.widget.gif" alt="output">
+<img width="743" src="https://raw.githubusercontent.com/franck-gaspoz/AnsiVtConsole.NetCore/main/AnsiVtConsole.NetCore/assets/ansivtconsole.netcore.widget.gif" alt="demo console output">
 
 </div>
 
