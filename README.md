@@ -1,10 +1,15 @@
 ### Hi there 👋
+
 ### Find here some of my personnal, free and open source software repositories:
 ___
 
 ### ⚡NodeJS Electron Forge app template
 
 This template repository provides a ready to launch NodeJS Electron Forge sample application based on **webpack** and **TypeScript**
+
+<img src="https://img.shields.io/static/v1?label=|&message=NodeJs&color=52985b&
+style=plastic&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=|&message=webpack&color=52985b&style=plastic&logo=webpack"/> <img src="https://img.shields.io/static/v1?label=|&message=TypeScript&color=dodgerblue&style=plastic&logo=typescript"/> <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=dodgerblue&style=plastic&logo=html5"/> <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=dodgerblue&style=plastic&logo=css3"/> <img src="https://img.shields.io/static/v1?label=|&message=Linux&color=285f65&
+style=plastic&logo=linux"/> <img src="https://img.shields.io/static/v1?label=|&message=Windows&color=285f65&style=plastic&logo=windows"/>  <img src="https://img.shields.io/static/v1?label=|&message=OSX&color=285f65&style=plastic&logo=osx"/>
 
 Read the project README at [https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
 
