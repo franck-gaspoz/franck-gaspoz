@@ -16,14 +16,11 @@ Read the project README at [https://github.com/franck-gaspoz/electron-forge-app-
 
 </p>
 
-[![NodeJs](https://img.shields.io/github/followers/franck-gaspoz?label=Follow&style=social)](https://github.com/franck-gaspoz)
+![]()
 
-[![NodeJs](https://img.shields.io/static/v1?label=a&message=NodeJs&color=52985b&style=plastic&logo=nodejs)](https://github.com/franck-gaspoz)
+![nodejs](https://img.shields.io/static/v1?label=&message=NodeJs&color=52985b&style=plastic&logo=nodejs) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=52985b&style=plastic&logo=webpack) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=dodgerblue&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=dodgerblue&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=dodgerblue&style=plastic&logo=css3) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285f65&style=plastic&logo=linux) ![]() ![]()
 
-<img src="https://img.shields.io/static/v1?label=a&message=NodeJs&color=52985b&style=plastic&logo=nodejs"> 
-
-<img src="https://img.shields.io/static/v1?label=&#127;&message=webpack&color=52985b&style=plastic&logo=webpack"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=TypeScript&color=dodgerblue&style=plastic&logo=typescript"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=HTML5&color=dodgerblue&style=plastic&logo=html5"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=CSS3&color=dodgerblue&style=plastic&logo=css3"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=Linux&color=285f65&
-style=plastic&logo=linux"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=Windows&color=285f65&style=plastic&logo=windows"/>  <img src="https://img.shields.io/static/v1?label=&#127;&message=OSX&color=285f65&style=plastic&logo=osx"/>
+<img src="https://img.shields.io/static/v1?label=&#127;&message=TypeScript&color=dodgerblue&style=plastic&logo=typescript"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=HTML5&color=dodgerblue&style=plastic&logo=html5"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=CSS3&color=dodgerblue&style=plastic&logo=css3"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=Linux&color=285f65&style=plastic&logo=linux"/> <img src="https://img.shields.io/static/v1?label=&#127;&message=Windows&color=285f65&style=plastic&logo=windows"/>  <img src="https://img.shields.io/static/v1?label=&#127;&message=OSX&color=285f65&style=plastic&logo=osx"/>
 
 ___
 
