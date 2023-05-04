@@ -5,7 +5,7 @@ ___
 
 ### ⚡NodeJs Electron Forge application template
 
-This template repository provides a ready to launch NodeJs Electron Forge sample application based on **webpack** and **TypeScript**
+This template repository provides a ready to run a **NodeJs Electron Forge** sample application based on **webpack** and **TypeScript**
 
 Read the project [readme](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
 
