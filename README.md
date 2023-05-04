@@ -115,19 +115,19 @@ read the project [readme](https://github.com/franck-gaspoz/TensorflowKeras_DeepL
 <td>
 <img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/server.png" width="100%" align="center" style="margin-left:auto;margin-right:auto" alt="">
 <p align="center"> 
-<i>running Uvicorn FastAPI serving the image recognition functionnality using VGG16</i>
+<br><i>running Uvicorn FastAPI serving the image recognition functionnality using VGG16</i>
 </p>
 </td>
 <td>
 <img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/CNN-VGG-mug.jpg" width="170px" align="center" style="margin-left:auto;margin-right:auto" alt="">
 <p align="center">
-<i>image to be classified</i>
+<br><i>image to be classified</i>
 </p>
 </td>
 <td>
 <img src="https://raw.githubusercontent.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/master/doc/mug-prediction.png" width="100%" align="center" style="margin-left:auto;margin-right:auto" alt="">
 <p align="center">
-<i>the classification results given by the HTTP query JSon response</i>
+<br><i>the classification results given by the HTTP query JSon response</i>
 </p>              
 </td>
 </tr>
