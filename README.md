@@ -216,11 +216,10 @@ ___
 
 ### ⚡ Widget Dock (WPF)
 
-read project the [readme](https://github.com/franck-gaspoz/WidgetDockXTreme/blob/master/README.md)
+read the project [readme](https://github.com/franck-gaspoz/WidgetDockXTreme/blob/master/README.md)
 
 - 100% WPF - XAML - intensivelly based on custom wpf behaviors
 - Windows 10 Desktop .Net Core 3.1 WPF application (use of PInvoke)
-- 
 - this software is to be completed - DIY 😄
 - we should develop widgets now!
 - check the <a href="https://github.com/franck-gaspoz/WidgetDockXTreme/tree/master/Doc/Design%20And%20Implementation%20-%20Tutorial">project development tutorial</a>
@@ -242,7 +241,7 @@ ___
 
 a complete set of essential components
 
-read project the [readme](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
+read the project [readme](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/WPFUtilities/main/Doc/app-sample-preview.png" width="70%" align="center" style="margin-left:auto;margin-right:auto"/>
