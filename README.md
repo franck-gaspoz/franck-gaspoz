@@ -50,7 +50,7 @@ read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![.net](https://img.shields.io/static/v1?label=&message=.NET%206&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![.ANSI/VT](https://img.shields.io/static/v1?label=&message=ANSI/VT&color=cdf998&style=plastic&logo=) ![shell](https://img.shields.io/static/v1?label=&message=Shell&color=cdf998&style=plastic&logo=) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
+![.net](https://img.shields.io/static/v1?label=&message=.NET%206&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![.ANSI/VT](https://img.shields.io/static/v1?label=&message=ANSI/VT&color=cdf998&style=plastic&logo=) ![shell](https://img.shields.io/static/v1?label=&message=Shell&color=cdf998&style=plastic&logo=) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
 
 </div>
 
@@ -64,7 +64,7 @@ This .Net 6 library provides functionalities needed to build console application
 - command pattern helps implementing commands binded to methods from command line in a simple and regular way using a fluent syntax
 - multi-language commands help configuration files
 - automatic help command
-- provided full support of [AnsiVtConsole.NetCore]([AnsiVtConsole.NetCore](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md))
+- provide full support of [AnsiVtConsole.NetCore]([AnsiVtConsole.NetCore](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md))
 
 read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
 
@@ -88,7 +88,7 @@ read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/b
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![.net](https://img.shields.io/static/v1?label=&message=.NET%206&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
+![.net](https://img.shields.io/static/v1?label=&message=.NET%206&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
 
 </div>
 
@@ -135,7 +135,7 @@ read the project [readme](https://github.com/franck-gaspoz/TensorflowKeras_DeepL
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![tensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=307639&style=plastic&logo=tensorFlow) ![keras](https://img.shields.io/static/v1?label=&message=Keras&color=307639&style=plastic&logo=keras) ![shap](https://img.shields.io/static/v1?label=&message=SHAP&color=307639&style=plastic&logo=) ![matplotlib](https://img.shields.io/static/v1?label=&message=matplotlib&color=307639&style=plastic&logo=) ![pydot](https://img.shields.io/static/v1?label=&message=pydot&color=307639&style=plastic&logo=pydot) ![graphviz](https://img.shields.io/static/v1?label=&message=graphviz&color=307639&style=plastic&logo=) ![fastapi](https://img.shields.io/static/v1?label=&message=fastapi&color=307639&style=plastic&logo=fastapi) ![uvicorn](https://img.shields.io/static/v1?label=&message=uvicorn&color=307639&style=plastic&logo=) ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=red) ![rest](https://img.shields.io/static/v1?label=&message=REST&color=cdf998&style=plastic&logo=&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
+![tensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=307639&style=plastic&logo=tensorFlow) ![keras](https://img.shields.io/static/v1?label=&message=Keras&color=307639&style=plastic&logo=keras) ![shap](https://img.shields.io/static/v1?label=&message=SHAP&color=307639&style=plastic&logo=) ![matplotlib](https://img.shields.io/static/v1?label=&message=matplotlib&color=307639&style=plastic&logo=) ![pydot](https://img.shields.io/static/v1?label=&message=pydot&color=307639&style=plastic&logo=pydot) ![graphviz](https://img.shields.io/static/v1?label=&message=graphviz&color=307639&style=plastic&logo=) ![fastapi](https://img.shields.io/static/v1?label=&message=fastapi&color=307639&style=plastic&logo=fastapi) ![uvicorn](https://img.shields.io/static/v1?label=&message=uvicorn&color=307639&style=plastic&logo=) ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![rest](https://img.shields.io/static/v1?label=&message=REST&color=cdf998&style=plastic&logo=&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
 
 </div>
 
@@ -149,10 +149,10 @@ A sample of usage of Windows Audio Session WASAPI using BASS.NET - WPF C# .NET F
 
 Run the project, select your audio device, and this tool will listen to the device internal output and animates some of the sound properties. The library BASS.NET is used to interface C# with the WASAPI Windows library.
 
-Clean architecture & SOLID approach: complete discoupling between data,data providers,data transformers,ui controls,drawers,view models,application logic. Relying on the patterns MVVM, Command and Chain of responsability. Implements several importants aspects of WPF programming:
+**Clean architecture & SOLID approach**: a complete discoupling between data,data providers,data transformers,ui controls,drawers,view models,application logic. Relying on the patterns MVVM, Command and Chain of responsability. Implements several importants aspects of WPF programming:
 - User Controls, Resources/Styles, Converters, View Models, Data annotations, Data validators, Data binding, Commands, Visual Drawings  
 
-- read the project [readme](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
+read the project [readme](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/WindowsAudioSessionSample/main/Doc/windows-audio-session-sample3.gif"  width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
@@ -170,18 +170,27 @@ ___
 
 ### ⚡ Orbital Shell
 Multi-plateform (**windows, linux, macos, arm**) command shell (according to .Net Core supported platforms and APIs compatibilities), inspired by <b><i>bash</i></b> and **POSIX** recommendations.<br><br>It provides any usual bash shell feature (even if modernized) and 'user friendly' syntaxes allowing to access (get/set/call) C# objects.<br><br>Developed using **C# 8 .NET 5.0 - compatible with modules and libraries targeting .NET Core 3.1 and .NET Standard 2.1** , developped using GitHub CI/CD (build,nuget packaging,storage)<br>
-This shell integrates the most usefull shell commands, and is intented to be extended by coding new commands or downloading new commands modules within a repository of modules. Of course it can be enterly customized by using the features integrated to the shell (scripts, functions, commands, aliases, settings, parametrization,...). Having a strong ANSI/VT-100-220-300-500 support, it provides structured and colorized display of data and information (support of ASCII, Unicode and 24 bits colors). Includes a Web API for support of remote shell<br><br>
+This shell integrates the most usefull shell commands, and is intented to be extended by coding new commands or downloading new commands modules within a repository of modules. Of course it can be enterly customized by using the features integrated to the shell (scripts, functions, commands, aliases, settings, parametrization,...). Having a strong ANSI/VT-100-220-300-500 support, it provides structured and colorized display of data and information (support of ASCII, Unicode and 24 bits colors). Includes a Web API for support of remote shell<br>
+
+<b>Contribute :</b><br>
+
+We are looking for **collaborators** (currently there is **13 members**) to help evolving this tool !
+
+read the project [readme](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md) | visit the [project's web site](https://orbitalshell.github.io/OrbitalShell/) | go to the [project main repository (6 at all)](https://github.com/OrbitalShell/Orbital-Shell/)
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/OrbitalShell/Orbital-Shell-Assets/9aa1c9b4e36fae70f686d8b6e4cab4f81d59a6df/1.jpg" width="70%" align="center" style="margin-left:auto;margin-right:auto">
 <br><br>
 <i>orbsh running in windows terminal console</i>
-</p>
-<b>Contribute :</b><br>
 
-We are looking for **collaborators** (currently there is **13 members**) to help evolving this tool !
-  - read the project [readme](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md)
-- visit the [project's web site](https://orbitalshell.github.io/OrbitalShell/)
-- go to the [project main repository (6 at all)](https://github.com/OrbitalShell/Orbital-Shell/)
+</p>
+
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
+![.net](https://img.shields.io/static/v1?label=&message=.NET%203.1&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=console) ![git](https://img.shields.io/static/v1?label=&message=Git&color=307639&style=plastic&logo=git) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![ansivt](https://img.shields.io/static/v1?label=&message=Ansi/VT&color=cdf998&style=plastic&logo=&logoColor=darkgreen) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
+
+</div>
 
 ___
 
