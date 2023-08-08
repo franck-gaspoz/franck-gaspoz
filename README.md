@@ -6,7 +6,10 @@ ___
 
 ### ⚡YouTube Popup : Chromium browsers extension
 
-This template repository provides source code and assets for the browser extension **YouTube Popup**. It is compatible with browsers based on **Chromium**: Microsoft Edge, Chrome, Opera, Brave 
+This repository provides source code and assets for the browser extension **YouTube Popup**. 
+The extension button once clicked and if you are currently over a **youtube/watch** browser tab, opens the video in a new **popup window**. If no video is found a message is displayed to the user.
+
+It is compatible with browsers based on **Chromium**: Microsoft Edge, Chrome, Opera, Brave
 
 Read the project [readme](https://github.com/franck-gaspoz/youtube-popup/blob/main/README.md)
 
