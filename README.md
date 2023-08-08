@@ -1,6 +1,34 @@
 ### Hi there 👋
 
 ### Find here some of my personnal, free and open source software repositories:
+
+___
+
+### ⚡YouTube Popup : Chromium browsers extension
+
+This template repository provides source code and assets for the browser extension **YouTube Popup**. It is compatible with browsers based on **Chromium**: Microsoft Edge, Chrome, Opera, Brave 
+
+Read the project [readme](https://github.com/franck-gaspoz/youtube-popup/blob/main/README.md)
+
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/youtube-popup/main/doc/promote-youtube-popup-fdb-440-280-small.png" width="440px" align="center" style="margin-left:auto;margin-right:auto" alt="YouTube popup">
+<br/><br/>
+<i>YouTube popup</i>
+</p>
+<br>
+
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
+![node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=307639&style=plastic&logo=node.js&logoColor=white) ![Chrome Api](https://img.shields.io/static/v1?label=&message=Chrome%20Api&color=307639&style=plastic&logo=google) ![electron](https://img.shields.io/static/v1?label=&message=electron&color=307639&style=plastic&logo=electron&logoColor=white) ![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) 
+![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) 
+![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=cdf998&style=plastic&logo=css3&logoColor=black) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
+![edge](https://img.shields.io/static/v1?label=&message=Edge&color=98cdf9&style=plastic&logo=microsoftedge&logoColor=blue) 
+![chrome](https://img.shields.io/static/v1?label=&message=Chrome&color=98cdf9&style=plastic&logo=googlechrome&logoColor=blue)
+![opera](https://img.shields.io/static/v1?label=&message=Opera&color=98cdf9&style=plastic&logo=opera&logoColor=red)
+![brave](https://img.shields.io/static/v1?label=&message=Brave&color=98cdf9&style=plastic&logo=brave&logoColor=red)
+</div>
+
 ___
 
 ### ⚡NodeJs Electron Forge application template
@@ -188,7 +216,7 @@ read the project [readme](https://github.com/OrbitalShell/Orbital-Shell/blob/mas
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![.net](https://img.shields.io/static/v1?label=&message=.NET%203.1&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=console) ![git](https://img.shields.io/static/v1?label=&message=Git&color=307639&style=plastic&logo=git) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![ansivt](https://img.shields.io/static/v1?label=&message=Ansi/VT&color=cdf998&style=plastic&logo=&logoColor=darkgreen) ![REST](https://img.shields.io/static/v1?label=&message=REST&color=cdf998&style=plastic&logo=) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
+![.net](https://img.shields.io/static/v1?label=&message=.NET%205&color=307639&style=plastic&logo=.net) ![.net](https://img.shields.io/static/v1?label=&message=.NET%203.1&color=307639&style=plastic&logo=.net) ![.net](https://img.shields.io/static/v1?label=&message=.NET%20Standard%202.1&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=console) ![git](https://img.shields.io/static/v1?label=&message=Git&color=307639&style=plastic&logo=git) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![ansivt](https://img.shields.io/static/v1?label=&message=Ansi/VT&color=cdf998&style=plastic&logo=&logoColor=darkgreen) ![REST](https://img.shields.io/static/v1?label=&message=REST&color=cdf998&style=plastic&logo=) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
 
 </div>
 
@@ -231,7 +259,7 @@ read the project [readme](https://github.com/franck-gaspoz/WidgetDockXTreme/blob
 <br>
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![.net](https://img.shields.io/static/v1?label=&message=.NET%203.1&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![pinvoke](https://img.shields.io/static/v1?label=&message=PInvoke&color=307639&style=plastic&logo=) ![winapi](https://img.shields.io/static/v1?label=&message=WINAPI&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF)
+![.net](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![pinvoke](https://img.shields.io/static/v1?label=&message=PInvoke&color=307639&style=plastic&logo=) ![winapi](https://img.shields.io/static/v1?label=&message=WINAPI&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF)
 
 </div>
 
