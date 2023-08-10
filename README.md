@@ -15,7 +15,7 @@ Read the project [readme](https://github.com/franck-gaspoz/youtube-popup/blob/ma
 
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/youtube-popup/main/doc/promote-youtube-popup-fdb-440-280-small.png" width="340px" align="center" style="margin-left:auto;margin-right:auto" alt="YouTube popup">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/youtube-popup/main/doc/promote-youtube-popup-fdb-440-280-small-v2.png" width="340px" align="center" style="margin-left:auto;margin-right:auto" alt="YouTube popup">
 <br/><br/>
 <i>YouTube popup</i>
 </p>
