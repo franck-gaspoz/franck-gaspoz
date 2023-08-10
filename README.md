@@ -12,7 +12,7 @@ The extension button once clicked and if you are currently over a **youtube/watc
 It is compatible with browsers based on **Chromium**: Microsoft Edge, Chrome, Opera, Brave
 
 Read the project [readme](https://github.com/franck-gaspoz/youtube-popup/blob/main/README.md)
-| Download the last relase: [1.1.0 (zip)](https://github.com/franck-gaspoz/WindowsAudioSessionSample/releases/download/v1.0/WindowsAudioSession_1.0.zip) and install it in browser extensions (unzip, extensions &gt; developer mode &gt; load unpacked extension)
+| Download the last relase: [1.1.0 ](https://github.com/franck-gaspoz/youtube-popup/releases/download/1.1.0/youtube-popup-1.1.0.zip) (zip) and install it in browser extensions (unzip, extensions &gt; developer mode &gt; load unpacked extension)
 
 <br>
 <p align="center">
