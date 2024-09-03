@@ -6,7 +6,7 @@ ___
 
 ### ⚡IMDb Assistant
 
-Generates **Movie documents** (HTML, movie database,...) from [IMBb](http://www.imdb.com) scrapped datas using IMDBScrapper, and can run a scrawler over IMDb
+Generates **Movie documents** (HTML, movie database,...) from [IMDb](http://www.imdb.com) scrapped datas using IMDBScrapper, and can run a scrawler over IMDb
 
 Read the project [readme](https://github.com/franck-gaspoz/IMDBAssistant/blob/main/README.md)
 
