@@ -8,7 +8,7 @@ ___
 
 Generates **Movie documents** (HTML, movie database,...) from [IMBb](http://www.imdb.com) scrapped datas using IMDBScrapper, and can run a scrawler over IMDb
 
-Read the project [readme](https://github.com/franck-gaspoz/IMDBScraper/blob/master/README.md)
+Read the project [readme](https://github.com/franck-gaspoz/IMDBAssistant/blob/main/README.md)
 
 based on the project `IMDBScrapper` on GitHub: [/IMDBScraper/blob/master/README.md](https://github.com/franck-gaspoz/IMDBScraper/blob/master/README.md)
 
