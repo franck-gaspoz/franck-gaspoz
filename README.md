@@ -4,7 +4,23 @@
 
 ___
 
-### ⚡IMDB Scraper
+### ⚡IMDb Assistant
+
+Generates **Movie documents** (HTML, movie database,...) from [IMBb](http://www.imdb.com) scrapped datas using IMDBScrapper, and can run a scrawler over IMDb
+
+Read the project [readme](https://github.com/franck-gaspoz/IMDBScraper/blob/master/README.md)
+
+based on the project `IMDBScrapper` on GitHub: [/IMDBScraper/blob/master/README.md](https://github.com/franck-gaspoz/IMDBScraper/blob/master/README.md)
+
+![.net](https://img.shields.io/static/v1?label=&message=.NET%208&color=307639&style=plastic&logo=.net) 
+![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) 
+![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
+![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=cdf998&style=plastic&logo=css3&logoColor=black)
+![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
+
+___
+
+### ⚡IMDb Scraper
 
 This is a [Scrapy](https://github.com/scrapy/scrapy) project which can be used to crawl [IMDB](https://www.imdb.com/) website to scrape movies' information and then store the data in `json` format. 
 - This project is a based on a fork of the project [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) from **Vaibhav Gupta** (2018,MIT)
