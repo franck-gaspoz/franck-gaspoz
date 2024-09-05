@@ -6,7 +6,7 @@ ___
 
 ### ⚡Movie Db Assistant
 
-Generates **Movie documents** (HTML, movie database,...) using **Web Scrawlers**.
+Generates **Movie documents** (HTML, movie database,...) using **Web Crawlers**.
 Can scrap from [IMDb](http://www.imdb.com)
 
 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
