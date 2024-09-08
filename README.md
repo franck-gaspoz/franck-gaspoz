@@ -18,7 +18,7 @@ based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/R
 ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
 ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=cdf998&style=plastic&logo=css3&logoColor=black)
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbScraper?color=3076BB&style=plastic&logo=github)
 ___
 
 ### ⚡Movie Db Scraper
