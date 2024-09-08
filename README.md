@@ -18,7 +18,8 @@ based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/R
 ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
 ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=cdf998&style=plastic&logo=css3&logoColor=black)
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
-![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbScraper?color=3076BB&style=plastic&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbAssistant?color=3076BB&style=plastic&logo=github)
+
 ___
 
 ### ⚡Movie Db Scraper
@@ -33,6 +34,7 @@ Read the project [readme](https://github.com/franck-gaspoz/MovieDbScraper/blob/m
 
 ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) 
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbScraper?color=3076BB&style=plastic&logo=github)
 
 ___
 
@@ -63,6 +65,7 @@ Read the project [readme](https://github.com/franck-gaspoz/youtube-popup/blob/ma
 ![chrome](https://img.shields.io/static/v1?label=&message=Chrome&color=98cdf9&style=plastic&logo=googlechrome&logoColor=blue)
 ![opera](https://img.shields.io/static/v1?label=&message=Opera&color=98cdf9&style=plastic&logo=opera&logoColor=red)
 ![brave](https://img.shields.io/static/v1?label=&message=Brave&color=98cdf9&style=plastic&logo=brave&logoColor=red)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/youtube-popup?color=3076BB&style=plastic&logo=github)
 </div>
 
 ___
@@ -84,6 +87,7 @@ Read the project [readme](https://github.com/franck-gaspoz/electron-forge-app-te
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
 ![node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=307639&style=plastic&logo=node.js&logoColor=white) ![webpack](https://img.shields.io/static/v1?label=&message=webpack&color=307639&style=plastic&logo=webpack) ![electron](https://img.shields.io/static/v1?label=&message=electron&color=307639&style=plastic&logo=electron&logoColor=white) ![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=cdf998&style=plastic&logo=typescript) ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=cdf998&style=plastic&logo=css3&logoColor=black) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/electron-forge-app-template?color=3076BB&style=plastic&logo=github)
 
 </div>
 
@@ -115,6 +119,7 @@ read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%206&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![.ANSI/VT](https://img.shields.io/static/v1?label=&message=ANSI/VT&color=cdf998&style=plastic&logo=) ![shell](https://img.shields.io/static/v1?label=&message=Shell&color=cdf998&style=plastic&logo=) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/AnsiVtConsole.NetCore?color=3076BB&style=plastic&logo=github)
 
 </div>
 
@@ -153,6 +158,7 @@ read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/b
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%206&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/CommandLine.NetCore?color=3076BB&style=plastic&logo=github)
 
 </div>
 
@@ -200,6 +206,7 @@ read the project [readme](https://github.com/franck-gaspoz/TensorflowKeras_DeepL
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
 ![tensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=307639&style=plastic&logo=tensorFlow) ![keras](https://img.shields.io/static/v1?label=&message=Keras&color=307639&style=plastic&logo=keras) ![shap](https://img.shields.io/static/v1?label=&message=SHAP&color=307639&style=plastic&logo=) ![matplotlib](https://img.shields.io/static/v1?label=&message=matplotlib&color=307639&style=plastic&logo=) ![pydot](https://img.shields.io/static/v1?label=&message=pydot&color=307639&style=plastic&logo=pydot) ![graphviz](https://img.shields.io/static/v1?label=&message=graphviz&color=307639&style=plastic&logo=) ![fastapi](https://img.shields.io/static/v1?label=&message=fastapi&color=307639&style=plastic&logo=fastapi) ![uvicorn](https://img.shields.io/static/v1?label=&message=uvicorn&color=307639&style=plastic&logo=) ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![rest](https://img.shields.io/static/v1?label=&message=REST&color=cdf998&style=plastic&logo=&logoColor=red) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/TensorflowKeras_DeepLearning_Samples?color=3076BB&style=plastic&logo=github)
 
 </div>
 
@@ -227,6 +234,7 @@ read the project [readme](https://github.com/franck-gaspoz/WindowsAudioSessionSa
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
 ![.netframework](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![bass.net](https://img.shields.io/static/v1?label=&message=BASS.NET&color=307639&style=plastic&logo=) ![wasapi](https://img.shields.io/static/v1?label=&message=WASAPI&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/WindowsAudioSessionSample?color=3076BB&style=plastic&logo=github)
 
 </div>
 
@@ -253,6 +261,7 @@ read the project [readme](https://github.com/OrbitalShell/Orbital-Shell/blob/mas
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%205&color=307639&style=plastic&logo=.net) ![.net](https://img.shields.io/static/v1?label=&message=.NET%203.1&color=307639&style=plastic&logo=.net) ![.net](https://img.shields.io/static/v1?label=&message=.NET%20Standard%202.1&color=307639&style=plastic&logo=.net) ![console](https://img.shields.io/static/v1?label=&message=console&color=307639&style=plastic&logo=console) ![git](https://img.shields.io/static/v1?label=&message=Git&color=307639&style=plastic&logo=git) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) ![ansivt](https://img.shields.io/static/v1?label=&message=Ansi/VT&color=cdf998&style=plastic&logo=&logoColor=darkgreen) ![REST](https://img.shields.io/static/v1?label=&message=REST&color=cdf998&style=plastic&logo=) ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA) ![arm](https://img.shields.io/static/v1?label=&message=ARM&color=285fdd&style=plastic&logo=android)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/Orbital-Shell-Assets?color=3076BB&style=plastic&logo=github)
 
 </div>
 
@@ -296,6 +305,7 @@ read the project [readme](https://github.com/franck-gaspoz/WidgetDockXTreme/blob
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![pinvoke](https://img.shields.io/static/v1?label=&message=PInvoke&color=307639&style=plastic&logo=) ![winapi](https://img.shields.io/static/v1?label=&message=WINAPI&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/WidgetDockXTreme?color=3076BB&style=plastic&logo=github)
 
 </div>
 
@@ -316,6 +326,7 @@ read the project [readme](https://github.com/franck-gaspoz/WPFUtilities/blob/mai
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![dotspatial.projections](https://img.shields.io/static/v1?label=&message=DotSpatial.Projections&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF)
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/WPFUtilities?color=3076BB&style=plastic&logo=github)
 
 </div>
 
