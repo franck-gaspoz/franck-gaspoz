@@ -1,20 +1,22 @@
-### Hi there 👋
-
-### Find here some of my personnal, free and open source software repositories
-
-*cite*
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Learning%20is%20an%20experience.%20Everything%20else%20is%20just%20information&author=Albert%20Einstein">
   </a>
 </p>
 
+### Hi there 👋
+
+### 👉 Find here some of my personnal, free and open source software repositories
+
+___
+___
+
 ### ⚡Movie Db Assistant
 
 Generates **Movie documents** (HTML, movie database,...) using **Web Crawlers**.
 Can scrap from [IMDb](http://www.imdb.com)
 
-Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
+👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
 based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
 
@@ -35,7 +37,7 @@ Can scrap form:
 
 This project is a based on a fork of the project [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) from **Vaibhav Gupta** (2018,MIT)
 
-Read the project [readme](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
+👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
 
 ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) 
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
@@ -50,7 +52,7 @@ The extension button once clicked and if you are currently over a **youtube/watc
 
 It is compatible with browsers based on **Chromium**: Microsoft Edge, Chrome, Opera, Brave
 
-Read the project [readme](https://github.com/franck-gaspoz/youtube-popup/blob/main/README.md)
+👉 Read the project [readme](https://github.com/franck-gaspoz/youtube-popup/blob/main/README.md)
 | Download the last relase: [1.1.0 ](https://github.com/franck-gaspoz/youtube-popup/releases/download/1.1.0/youtube-popup-1.1.0.zip) (zip) and install it in browser extensions (unzip, extensions &gt; developer mode &gt; load unpacked extension)
 
 <br>
@@ -79,7 +81,7 @@ ___
 
 This template repository provides a ready to run a **NodeJs Electron Forge** sample application based on **webpack** and **TypeScript**
 
-Read the project [readme](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
+👉 Read the project [readme](https://github.com/franck-gaspoz/electron-forge-app-template/blob/main/README.md)
 
 <br>
 <p align="center">
@@ -107,7 +109,7 @@ This library provides ANSI VT support (cursor,colors,screen size) for multi-plat
 - strings shortcuts and API methods
 - **widgets** : visual elements with live update, animations, thread safe, combinables together
   
-read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
+👉 read the project [readme](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md)
 
 <br>
 <div align="center" style="margin-left:auto;margin-right:auto">
@@ -140,7 +142,7 @@ This .Net 6 library provides functionalities needed to build console application
 - automatic help command
 - provide full support of [AnsiVtConsole.NetCore]([AnsiVtConsole.NetCore](https://github.com/franck-gaspoz/AnsiVtConsole.NetCore/blob/master/README.md))
 
-read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
+👉 read the project [readme](https://github.com/franck-gaspoz/CommandLine.NetCore/blob/master/README.md)
 
 <br>
 <table width="100%" border="0">
@@ -183,7 +185,7 @@ ___
 
 A few samples to demonstrates the use of tensorflow and keras, throught basic samples and for image recognition, with a python WEB API that serves the image recognition functionnality. Project doc provides explanations and graphical views about Deep Neural Networks
 
-read the project [readme](https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md)
+👉 read the project [readme](https://github.com/franck-gaspoz/TensorflowKeras_DeepLearning_Samples/blob/master/README.md)
 
 <table width="100%" style="width:100%;border:none" border="0">
 <tr>
@@ -228,7 +230,7 @@ Run the project, select your audio device, and this tool will listen to the devi
 **Clean architecture & SOLID approach**: a complete discoupling between data,data providers,data transformers,ui controls,drawers,view models,application logic. Relying on the patterns MVVM, Command and Chain of responsability. Implements several importants aspects of WPF programming:
 - User Controls, Resources/Styles, Converters, View Models, Data annotations, Data validators, Data binding, Commands, Visual Drawings  
 
-read the project [readme](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
+👉 read the project [readme](https://github.com/franck-gaspoz/WindowsAudioSessionSample/blob/main/README.md)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/WindowsAudioSessionSample/main/Doc/windows-audio-session-sample3.gif"  width="70%" align="center" style="margin-left:auto;margin-right:auto" alt="a FFT having 512 bars + FFT with 16 bars and peak bars + stereo sound level">
@@ -253,7 +255,7 @@ This shell integrates the most usefull shell commands, and is intented to be ext
 
 We are looking for **collaborators** (currently there is **13 members**) to help evolving this tool !
 
-read the project [readme](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md) | visit the [project's web site](https://orbitalshell.github.io/OrbitalShell/) | go to the [project main repository (6 at all)](https://github.com/OrbitalShell/Orbital-Shell/)
+👉 read the project [readme](https://github.com/OrbitalShell/Orbital-Shell/blob/master/README.md) | visit the [project's web site](https://orbitalshell.github.io/OrbitalShell/) | go to the [project main repository (6 at all)](https://github.com/OrbitalShell/Orbital-Shell/)
 
 
 <p align="center">
@@ -294,7 +296,7 @@ ___
 
 ### ⚡ Widget Dock (WPF)
 
-read the project [readme](https://github.com/franck-gaspoz/WidgetDockXTreme/blob/master/README.md)
+👉 read the project [readme](https://github.com/franck-gaspoz/WidgetDockXTreme/blob/master/README.md)
 
 - 100% WPF - XAML - intensivelly based on custom wpf behaviors
 - Windows 10 Desktop .Net Core 3.1 WPF application (use of PInvoke)
@@ -320,7 +322,7 @@ ___
 
 a complete set of essential components
 
-read the project [readme](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
+👉 read the project [readme](https://github.com/franck-gaspoz/WPFUtilities/blob/main/README.md)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/WPFUtilities/main/Doc/app-sample-preview.png" width="70%" align="center" style="margin-left:auto;margin-right:auto"/>
