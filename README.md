@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-### Find here some of my personnal, free and open source software repositories:
+### Find here some of my personnal, free and open source software repositories
 
-___
+*cite*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Learning%20is%20an%20experience.%20Everything%20else%20is%20just%20information&author=Albert%20Einstein">
+</p>
 
 ### ⚡Movie Db Assistant
 
