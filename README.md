@@ -21,6 +21,8 @@ Can scrap from [IMDb](http://www.imdb.com)
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
+🚧 *under construction* 🚧
+
 based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
 
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%208&color=307639&style=plastic&logo=.net) 
@@ -358,7 +360,7 @@ ___
 
 [![Github](https://img.shields.io/github/followers/franck-gaspoz?label=Follow&style=social)](https://github.com/franck-gaspoz) [![Linkedin](https://img.shields.io/badge/-franck%20gaspoz-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/franckgaspoz/) [![Mail](https://img.shields.io/badge/-franck.gaspoz@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:franck.gaspoz@gmail.com) <a href="https://franckgaspoz.fr/en" target="_new"><img src="https://img.shields.io/badge/web%20site-https%3A%2F%2Ffranckgaspoz.fr-brightgreen"></a> <img src="https://visitor-badge.laobi.icu/badge?page_id=franck-gaspoz">
 
-<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=franck-gaspoz&theme=flat&no-frame=true&margin-w=32&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 
