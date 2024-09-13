@@ -362,6 +362,10 @@ ___
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=franck-gaspoz&theme=flat&no-frame=true&margin-w=32&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franck-gaspoz)](https://github.com/franck-gaspoz)
+-->
+
 <div align="center">
 
 <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=franck-gaspoz&theme=gotham&hide_border=true" />
