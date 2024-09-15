@@ -337,7 +337,7 @@ a complete set of essential components
 <br>
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-![.net](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![dotspatial.projections](https://img.shields.io/static/v1?label=&message=DotSpatial.Projections&color=307639&style=plastic&logo=) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF)
+![.net](https://img.shields.io/static/v1?label=&message=.NET%20Framework&color=307639&style=plastic&logo=.net) ![wpf](https://img.shields.io/static/v1?label=&message=WPF&color=307639&style=plastic&logo=wpf) ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) ![xaml](https://img.shields.io/static/v1?label=&message=XAML&color=cdf998&style=plastic&logo=xaml&logoColor=darkgreen) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF)
 ![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/WPFUtilities?color=3076BB&style=plastic&logo=github)
 
 </div>
