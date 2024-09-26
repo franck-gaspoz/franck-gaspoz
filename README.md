@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Learning%20is%20an%20experience.%20Everything%20else%20is%20just%20information&author=Albert%20Einstein">
-  </a>
 </p>
 
 ___
