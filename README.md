@@ -24,8 +24,29 @@ Can scrap from:
 
 based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
 
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-list.png" 
+  width="70%" 
+  align="center" style="margin-left:auto;margin-right:auto" 
+  alt="movie catalog: movie list">
+<br/><br/>
+<i>movie catalog: movie list</i>
+</p>
+<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-details.png" 
+  width="70%" 
+  align="center" style="margin-left:auto;margin-right:auto" 
+  alt="movie catalog: movie list">
+<br/><br/>
+<i>movie catalog: movie details</i>
+</p>
+<br>
+
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
-  
+
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%208&color=307639&style=plastic&logo=.net) 
 ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) 
 ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
