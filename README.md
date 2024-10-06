@@ -23,7 +23,7 @@ Can scrap from [IMDb](http://www.imdb.com)
 
 based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
 
-<p align="center">
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
   
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%208&color=307639&style=plastic&logo=.net) 
 ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) 
@@ -32,7 +32,7 @@ based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/R
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
 ![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbAssistant?color=3076BB&style=plastic&logo=github)
 
-</p>
+</div>
 
 ___
 
@@ -47,7 +47,7 @@ This project is a based on a fork of the project [https://github.com/dojutsu-use
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)  
 👉 check releases [here](https://github.com/franck-gaspoz/MovieDbScraper/releases)
 
-<p align="center">
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
   
 ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) 
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
@@ -56,7 +56,8 @@ This project is a based on a fork of the project [https://github.com/dojutsu-use
 ![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/MovieDbScraper?&style=plastic&label=release)
 ![release](https://img.shields.io/github/v/release/franck-gaspoz/MovieDbScraper?&style=plastic&label=)
 
-</p>
+</div>
+
 ___
 
 ### ⚡YouTube Popup : Chromium browsers extension
