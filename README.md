@@ -23,12 +23,16 @@ Can scrap from [IMDb](http://www.imdb.com)
 
 based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
 
+<p align="center">
+  
 ![.net](https://img.shields.io/static/v1?label=&message=.NET%208&color=307639&style=plastic&logo=.net) 
 ![csharp](https://img.shields.io/static/v1?label=&message=C%20&sharp;&color=cdf998&style=plastic&logo=csharp&logoColor=dodgerblue) 
 ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
 ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=cdf998&style=plastic&logo=css3&logoColor=black)
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
 ![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbAssistant?color=3076BB&style=plastic&logo=github)
+
+</p>
 
 ___
 
@@ -40,12 +44,19 @@ Can scrap form:
 
 This project is a based on a fork of the project [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) from **Vaibhav Gupta** (2018,MIT)
 
-👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
+👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)  
+👉 check releases [here](https://github.com/franck-gaspoz/MovieDbScraper/releases)
 
+<p align="center">
+  
 ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) 
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
 ![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbScraper?color=3076BB&style=plastic&logo=github)
 
+![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/MovieDbScraper?&style=plastic&label=release)
+![release](https://img.shields.io/github/v/release/franck-gaspoz/MovieDbScraper?&style=plastic&label=)
+
+</p>
 ___
 
 ### ⚡YouTube Popup : Chromium browsers extension
