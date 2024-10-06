@@ -15,7 +15,8 @@ ___
 ### ⚡Movie Db Assistant
 
 Generates **Movie documents** (HTML, movie database,...) using **Web Crawlers**.
-Can scrap from [IMDb](http://www.imdb.com)
+Can scrap from:
+- [IMDb](http://www.imdb.com)
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
@@ -39,7 +40,7 @@ ___
 ### ⚡Movie Db Scraper
 
 This is a [Scrapy](https://github.com/scrapy/scrapy) project which can be used to crawl web sites for scraping movies' information and then store the data in `json` format.
-Can scrap form:
+Can scrap from:
 - [IMDB](https://www.imdb.com/)
 
 This project is a based on a fork of the project [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) from **Vaibhav Gupta** (2018,MIT)
