@@ -20,7 +20,7 @@ Can scrap from:
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
-🚧 *under construction* 🚧
+🚧 *under construction* 🚧 close to the first release
 
 based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
 
