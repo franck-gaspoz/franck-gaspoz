@@ -22,7 +22,7 @@ Can scrap from:
 
 🚧 *under construction* 🚧 close to the first release
 
-based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)
+based on the project `MovieDbSpiders` on GitHub: [/MovieDbSpiders/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)
 
 <br>
 <p align="center">
@@ -58,16 +58,16 @@ based on the project `MovieDbScrapper` on GitHub: [/MovieDbScraper/blob/master/R
 
 ___
 
-### ⚡Movie Db Scraper
+### ⚡Movie Db Spiders
 
 This is a [Scrapy](https://github.com/scrapy/scrapy) project which can be used to crawl web sites for scraping movies' information and then store the data in `json` format.
 Can scrap from:
 - [IMDB](https://www.imdb.com/)
 
-This project is a based on a fork of the project [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) from **Vaibhav Gupta** (2018,MIT)
+👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)  
+👉 check releases [here](https://github.com/franck-gaspoz/MovieDbSpiders/releases)
 
-👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbScraper/blob/master/README.md)  
-👉 check releases [here](https://github.com/franck-gaspoz/MovieDbScraper/releases)
+This project is a based on the projects [MovieDbScraper](https://github.com/franck-gaspoz/MovieDbSpiders) and [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) from **Vaibhav Gupta** (2018,MIT)
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
   
@@ -75,8 +75,8 @@ This project is a based on a fork of the project [https://github.com/dojutsu-use
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
 ![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbScraper?color=3076BB&style=plastic&logo=github)
 
-![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/MovieDbScraper?&style=plastic&label=release)
-![release](https://img.shields.io/github/v/release/franck-gaspoz/MovieDbScraper?&style=plastic&label=)
+![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/MovieDbSpiders?&style=plastic&label=release)
+![release](https://img.shields.io/github/v/release/franck-gaspoz/MovieDbSpiders?&style=plastic&label=)
 
 </div>
 
