@@ -65,7 +65,7 @@ Can scrap from:
 - [IMDB](https://www.imdb.com/)
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)  
-👉 check releases [here](https://github.com/franck-gaspoz/MovieDbSpiders/releases)
+👉 check releases [here](https://github.com/franck-gaspoz/MovieDbSpiders/releases) | last [https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1](https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1)
 
 This project is a based on the projects [MovieDbScraper](https://github.com/franck-gaspoz/MovieDbSpiders) and [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) from **Vaibhav Gupta** (2018,MIT)
 
