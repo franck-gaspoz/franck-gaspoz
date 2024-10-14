@@ -43,7 +43,6 @@ Can scrap data from [IMDb](http://www.imdb.com)
 <i>movie catalog: movie details</i>
 </p>
 
-based on the project `MovieDbSpiders` on GitHub: [/MovieDbSpiders/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)
 <br>
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
@@ -58,6 +57,8 @@ based on the project `MovieDbSpiders` on GitHub: [/MovieDbSpiders/blob/master/RE
 ![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbAssistant?color=3076BB&style=plastic&logo=github)
 
 </div>
+
+dependes on the scrawler from the project `MovieDbSpiders` @ GitHub: [/MovieDbSpiders/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)
 
 ___
 
