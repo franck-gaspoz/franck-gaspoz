@@ -17,7 +17,7 @@ ___
 Generates **Movie catalogs documents** (HTML, stand alone ZIP,...) using **Web Crawlers** and a **templating system**.
 Can scrap data from [IMDb](http://www.imdb.com)
 
-👉 User & Developer manual: [manual.md](doc/manual.md)
+👉 User & Developer manual: [manual.md](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/doc/manual.md)
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
