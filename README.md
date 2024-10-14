@@ -14,15 +14,14 @@ ___
 
 ### ⚡Movie Db Assistant
 
-Generates **Movie documents** (HTML, movie database,...) using **Web Crawlers**.
-Can scrap from:
-- [IMDb](http://www.imdb.com)
+Generates **Movie catalogs documents** (HTML, stand alone ZIP,...) using **Web Crawlers** and a **templating system**.
+Can scrap data from [IMDb](http://www.imdb.com)
+
+👉 User & Developer manual: [manual.md](doc/manual.md)
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
-🚧 *under construction* 🚧 close to the first release
-
-based on the project `MovieDbSpiders` on GitHub: [/MovieDbSpiders/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)
+<p align="center">🚧 <i>under construction</i> 🚧 <i>close to the first release</i> 🚧</p>
 
 <br>
 <p align="center">
@@ -43,6 +42,8 @@ based on the project `MovieDbSpiders` on GitHub: [/MovieDbSpiders/blob/master/RE
 <br/><br/>
 <i>movie catalog: movie details</i>
 </p>
+
+based on the project `MovieDbSpiders` on GitHub: [/MovieDbSpiders/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)
 <br>
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
