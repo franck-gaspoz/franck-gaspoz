@@ -124,7 +124,7 @@ Can scrap from:
 👉 check releases [here](https://github.com/franck-gaspoz/MovieDbSpiders/releases) | last [https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1](https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1)
 
 <div align="center">
-    <img src="assets/movie-db-spider.gif" 
+    <img src="https://github.com/franck-gaspoz/franck-gaspoz/assets/movie-db-spider.gif" 
       width="70%" 
       align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
       alt="movie db spider in shell">
