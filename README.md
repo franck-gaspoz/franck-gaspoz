@@ -26,24 +26,24 @@ Can scrap data from [IMDb](http://www.imdb.com)
 <br>
 <table width="100%" border="0">
 <tr>
-<td>
-<p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-list.png" 
-  width="70%" 
-  align="center" style="margin-left:auto;margin-right:auto" 
-  alt="html movie catalog in browser: movie list">
-<br><br><i>html movie catalog in browser: movie list</i>
-</p>
-</td>
-<td>
-<p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-details.png" 
-  width="70%" 
-  align="center" style="margin-left:auto;margin-right:auto" 
-  alt="html movie catalog in browser: movie details">
-<br><br><i>html movie catalog in browser: movie details</i>
-</p>
-</td>
+    <td>
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-list.png" 
+          width="70%" 
+          align="center" style="margin-left:auto;margin-right:auto" 
+          alt="html movie catalog in browser: movie list">
+        <br><br><i>html movie catalog in browser: movie list</i>
+    </p>
+    </td>
+    <td>
+        <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-details.png" 
+          width="70%" 
+          align="center" style="margin-left:auto;margin-right:auto" 
+          alt="html movie catalog in browser: movie details">
+        <br><br><i>html movie catalog in browser: movie details</i>
+        </p>
+    </td>
 </tr>
 </table>
 
@@ -64,7 +64,49 @@ Can scrap data from [IMDb](http://www.imdb.com)
 
 👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe) *(Inno Db Setup)*
 
-</div>
+<br>
+<table width="100%" border="0">
+<tr>
+    <td>
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/setup-iss.png" 
+          width="50%" 
+          align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+          alt="Inno Setup">
+    </p>
+    </td>
+    <td>
+        <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-icon.png" 
+          width="70%" 
+          align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+          alt="tray icon">
+        </p>
+    </td>
+    <td>
+        <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-menu.png" 
+          width="70%" 
+          align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+          alt="tray menu">
+        </p>
+    </td>    
+</tr>
+<tr>
+<td>
+    <p align="center"><i>Inno Setup</i></p>
+</td>
+<td>
+    <p align="center"><i>Tray Icon</i></p>
+</td>
+<td>
+    <p align="center"><i>Tray Menu</i></p>
+</td>
+</tr>
+</table>
+<br>
+
+*Notes*
 
 depends on the scrawler from the project `MovieDbSpiders` @ GitHub: [/MovieDbSpiders/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)
 
