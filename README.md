@@ -37,11 +37,11 @@ Can scrap data from [IMDb](http://www.imdb.com)
     </td>
     <td>
         <p align="center">
-        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-details.png" 
-          width="70%" 
-          align="center" style="margin-left:auto;margin-right:auto" 
-          alt="html movie catalog in browser: movie details">
-        <br><br><i>html movie catalog in browser: movie details</i>
+            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-details.png" 
+              width="70%" 
+              align="center" style="margin-left:auto;margin-right:auto" 
+              alt="html movie catalog in browser: movie details">
+            <br><br><i>html movie catalog in browser: movie details</i>
         </p>
     </td>
 </tr>
@@ -60,6 +60,8 @@ Can scrap data from [IMDb](http://www.imdb.com)
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
 ![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/MovieDbAssistant?color=3076BB&style=plastic&logo=github)
 
+</div>
+
 ![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/MovieDbAssistant?&style=plastic&label=release)
 
 👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe) *(Inno Db Setup)*
@@ -68,27 +70,27 @@ Can scrap data from [IMDb](http://www.imdb.com)
 <table width="100%" border="0">
 <tr>
     <td>
-    <p align="center">
-        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/setup-iss.png" 
-          width="50%" 
-          align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
-          alt="Inno Setup">
-    </p>
-    </td>
-    <td>
         <p align="center">
-        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-icon.png" 
-          width="70%" 
-          align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
-          alt="tray icon">
+            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/setup-iss.png" 
+              width="50%" 
+              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+              alt="Inno Setup">
         </p>
     </td>
     <td>
         <p align="center">
-        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-menu.png" 
-          width="70%" 
-          align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
-          alt="tray menu">
+            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-icon.png" 
+              width="70%" 
+              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+              alt="tray icon">
+        </p>
+    </td>
+    <td>
+        <p align="center">
+            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-menu.png" 
+              width="70%" 
+              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+              alt="tray menu">
         </p>
     </td>    
 </tr>
