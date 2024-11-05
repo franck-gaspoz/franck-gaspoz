@@ -123,9 +123,17 @@ Can scrap from:
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)  
 👉 check releases [here](https://github.com/franck-gaspoz/MovieDbSpiders/releases) | last [https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1](https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1)
 
-This project is a based on the projects [MovieDbScraper](https://github.com/franck-gaspoz/MovieDbSpiders) and [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) from **Vaibhav Gupta** (2018,MIT)
+<div align="center">
+    <img src="assets/movie-db-spider.gif" 
+      width="70%" 
+      align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+      alt="movie db spider in shell">
+</div>
+
+This project is a based on the project [MovieDbScraper](https://github.com/franck-gaspoz/MovieDbSpiders) and the project [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) [from **Vaibhav Gupta**] (2018,MIT)
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
   
 ![python](https://img.shields.io/static/v1?label=&message=Python&color=cdf998&style=plastic&logo=python) ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen) 
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=285fdd&style=plastic&logo=linux) ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=285fdd&style=plastic&logo=windows&logoColor=77DDFF) ![osx](https://img.shields.io/static/v1?label=&message=OSX&color=285fdd&style=plastic&logo=apple&logoColor=AAFFAA)
@@ -133,6 +141,7 @@ This project is a based on the projects [MovieDbScraper](https://github.com/fran
 
 ![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/MovieDbSpiders?&style=plastic&label=release)
 ![release](https://img.shields.io/github/v/release/franck-gaspoz/MovieDbSpiders?&style=plastic&label=)
+
 
 </div>
 
