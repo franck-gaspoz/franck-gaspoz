@@ -21,27 +21,31 @@ Can scrap data from [IMDb](http://www.imdb.com)
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
-<p align="center">🚧 <i>under construction</i> 🚧 <i>close to the first release</i> 🚧</p>
+<p align="center">🚧 <i>under construction</i> 🚧 ⚡<i>beta release available!</i> ⚡</p>
 
 <br>
+<table width="100%" border="0">
+<tr>
+<td>
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-list.png" 
   width="70%" 
   align="center" style="margin-left:auto;margin-right:auto" 
-  alt="movie catalog: movie list">
-<br/><br/>
-<i>movie catalog: movie list</i>
+  alt="html movie catalog in browser: movie list">
+<br><br><i>html movie catalog in browser: movie list</i>
 </p>
-<br>
-
+</td>
+<td>
 <p align="center">
 <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-details.png" 
   width="70%" 
   align="center" style="margin-left:auto;margin-right:auto" 
-  alt="movie catalog: movie list">
-<br/><br/>
-<i>movie catalog: movie details</i>
+  alt="html movie catalog in browser: movie details">
+<br><br><i>html movie catalog in browser: movie details</i>
 </p>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -58,7 +62,7 @@ Can scrap data from [IMDb](http://www.imdb.com)
 
 ![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/MovieDbAssistant?&style=plastic&label=release)
 
-👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe)
+👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe) *(Inno Db Setup)*
 
 </div>
 
