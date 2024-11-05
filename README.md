@@ -124,11 +124,12 @@ Can scrap from:
 👉 check releases [here](https://github.com/franck-gaspoz/MovieDbSpiders/releases) | last [https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1](https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1)
 
 <div align="center">
-    <img src="https://github.com/franck-gaspoz/franck-gaspoz/assets/movie-db-spider.gif" 
+    <img src="movie-db-spider.gif" 
       width="70%" 
       align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
       alt="movie db spider in shell">
 </div>
+<br>
 
 This project is a based on the project [MovieDbScraper](https://github.com/franck-gaspoz/MovieDbSpiders) and the project [https://github.com/dojutsu-user/IMDB-Scraper](https://github.com/dojutsu-user/IMDB-Scraper) [from **Vaibhav Gupta**] (2018,MIT)
 
