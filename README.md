@@ -21,7 +21,7 @@ Can scrap data from [IMDb](http://www.imdb.com)
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
-<p align="center">🚧 <i>under construction</i> 🚧 ⚡<i>beta release available!</i> ⚡</p>
+<p align="center">⚡<i>beta release available!</i> ⚡</p>
 
 <br>
 <table width="100%" border="0">
@@ -64,7 +64,7 @@ Can scrap data from [IMDb](http://www.imdb.com)
 
 </div>
 
-👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe) *(Inno Setup)* for `Windows 10 x64 >= 10.0.22621.0`
+👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe) *(Inno Setup)* for `Windows 10,11 x64 >= 10.0.22621.0`
 
 <br>
 <table width="100%" border="0">
@@ -125,8 +125,8 @@ Can scrap from:
 
 <br>
 <div align="center">
-    <img src="./movie-db-spider.gif" 
-      width="70%" 
+    <img src="./movie-db-spider.gif"
+      width="70%"
       align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
       alt="movie db spider in shell">
 </div>
