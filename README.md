@@ -64,7 +64,7 @@ Can scrap data from [IMDb](http://www.imdb.com)
 
 </div>
 
-👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe) *(Inno Setup)*
+👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe) *(Inno Setup)* for `Windows 10 x64 >= 10.0.22621.0`
 
 <br>
 <table width="100%" border="0">
