@@ -123,6 +123,7 @@ Can scrap from:
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)  
 👉 check releases [here](https://github.com/franck-gaspoz/MovieDbSpiders/releases) | last [https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1](https://github.com/franck-gaspoz/MovieDbSpiders/releases/tag/1.1.1)
 
+<br>
 <div align="center">
     <img src="./movie-db-spider.gif" 
       width="70%" 
