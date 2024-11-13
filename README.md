@@ -14,8 +14,34 @@ ___
 
 ### ⚡Movie Db Assistant
 
-Generates **Movie catalogs documents** (HTML, stand alone ZIP,...) using **Web Crawlers** and a **templating system**.
+Generates **Movie catalogs documents** (HTML, stand alone ZIP,...) from a **list of movies titles** using **Web Crawlers** and a **templating system**.
 Can scrap data from [IMDb](http://www.imdb.com)
+
+```mermaid
+---
+title: flow chart
+---
+    flowchart LR
+
+    txt>list of movies titles .txt<br>----------------------------<br>title 1<br>title 2<br>...<br>title n<br>]
+    mdba[Movie Db Assistant]
+    scrapers[[scrapers]]
+    websites[(web sites)]
+    tple[[template engine]]
+    tpls>templates:<br>--------------<br>front engine js<br>themes<br>styles css<br>media]
+    mvc[(movie catalog web site)]
+
+    txt-- parse input file -->mdba
+
+    mdba-- scrapers queries -->scrapers
+    mdba-- build -->tple
+
+    scrapers-- json -->mdba
+    scrapers-- scrawl -->websites 
+
+    tpls-.->tple
+    tple-- generates -->mvc 
+```
 
 👉 User & Developer manual: [manual.md](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/doc/manual.md)
 
