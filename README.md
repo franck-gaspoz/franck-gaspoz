@@ -25,7 +25,7 @@ title: flow chart
 
     txt>list of movies titles .txt<br>----------------------------<br>title 1<br>title 2<br>...<br>title n<br>]
     mdba[Movie Db Assistant]
-    scrapers[[scrapers]]
+    scrawlers[[scrapers]]
     websites[(web sites)]
     tple[[template engine]]
     tpls>templates:<br>--------------<br>front engine js<br>themes<br>styles css<br>media]
@@ -33,11 +33,11 @@ title: flow chart
 
     txt-- parse input file -->mdba
 
-    mdba-- scrapers queries -->scrapers
+    mdba-- scrawlers queries -->scrawlers
     mdba-- movies data -->tple
 
-    scrapers-- json -->mdba
-    scrapers-- scrawl -->websites 
+    scrawlers-- json -->mdba
+    scrawlers-- scrawl -->websites 
 
     tpls-.->tple
     tple-- generates -->mvc 
