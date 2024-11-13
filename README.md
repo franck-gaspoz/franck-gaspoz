@@ -25,7 +25,7 @@ title: flow chart
 
     txt>list of movies titles .txt<br>----------------------------<br>title 1<br>title 2<br>...<br>title n<br>]
     mdba[Movie Db Assistant]
-    scrawlers[[scrapers]]
+    scrawlers[[scrawlers]]
     websites[(web sites)]
     tple[[template engine]]
     tpls>templates:<br>--------------<br>front engine js<br>themes<br>styles css<br>media]
