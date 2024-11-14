@@ -31,7 +31,7 @@ title: flow chart
     tpls>templates:<br>--------------<br>front engine js<br>themes<br>styles css<br>media]
     mvc[(movie catalog web site)]
     qrc[(queries results cache)]
-    dit[data integrator]
+    dit[[data integrator]]
     oc[(output cache)]
     mdb[(movie db)]
 
@@ -41,7 +41,8 @@ title: flow chart
     mdba-- movies data -->dit
 
     dit-- movies data -->tple
-    
+    dit-- store -->mdb 
+
     qrc-- json -->mdba
     qrc-- scrawlers queries -->scrawlers
 
@@ -50,7 +51,6 @@ title: flow chart
     tpls-.->tple
 
     tple-- generates -->mvc 
-    tple-- store -->mdb 
     
     oc<-- files -->tple
 ```
