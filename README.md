@@ -45,7 +45,6 @@ title: flow chart
     qrc-- json -->mdba
     qrc-- scrawlers queries -->scrawlers
 
-    scrawlers-- json -->sc
     scrawlers-- scrawl -->websites 
 
     tpls-.->tple
