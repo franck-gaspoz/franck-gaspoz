@@ -18,7 +18,7 @@ Generates **Movie catalogs documents** (HTML, stand alone ZIP,...) from a **list
 Can scrap data from [IMDb](http://www.imdb.com)
 
 👉 User & Developer manual: [manual.md](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/doc/manual.md)<br>
-👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
+👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)<br>s
 👉 download last release: [1.0.0](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0/movie-db-assistant.setup.1.0.0.exe) *(Inno Setup)* for `Windows 7,8,10,11 x64`
 
 *Notes*
