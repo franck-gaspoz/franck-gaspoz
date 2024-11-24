@@ -17,71 +17,45 @@ ___
 Generates **Movie catalogs documents** (HTML, stand alone ZIP,...) from a **list of movies titles** using **Web Crawlers** and a **templating system**.
 Can scrap data from [IMDb](http://www.imdb.com)
 
-```mermaid
----
-title: flow chart
----
-    flowchart LR
-
-    txt>list of movies titles .txt<br>----------------------------<br>title 1<br>title 2<br>...<br>title n<br>]
-    mdba[Movie Db Assistant]
-    scrawlers[[scrawlers]]
-    websites[(web sites)]
-    tple[[template engine]]
-    tpls>templates:<br>--------------<br>front engine js<br>themes<br>styles css<br>media]
-    mvc[(movie catalog web site)]
-    qrc[(queries results cache)]
-    dit[[data integrator]]
-    oc[(output cache)]
-    mdb[(movie db)]
-
-    txt-- parse input file -->mdba
-
-    mdba-- scrawlers queries -->qrc
-    mdba-- movies data -->dit
-
-    dit-- movies data -->tple
-    dit-- store -->mdb 
-
-    qrc-- json -->mdba
-    qrc-- scrawlers queries -->scrawlers
-
-    scrawlers-- scrawl -->websites 
-
-    tpls-.->tple
-
-    tple-- generates -->mvc 
-    
-    oc<-- files -->tple
-```
-
 👉 User & Developer manual: [manual.md](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/doc/manual.md)
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
 
-<p align="center">⚡<i>beta release available!</i> ⚡</p>
-
 <br>
-<table width="100%" border="0">
+<table width="100%" border="0" noborder>
 <tr>
-    <td>
-    <p align="center">
-        <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-list.png" 
-          width="70%" 
-          align="center" style="margin-left:auto;margin-right:auto" 
-          alt="html movie catalog in browser: movie list">
-        <br><br><i>html movie catalog in browser: movie list</i>
-    </p>
-    </td>
-    <td>
+    <td width="50%">
         <p align="center">
-            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-details.png" 
-              width="70%" 
-              align="center" style="margin-left:auto;margin-right:auto" 
+            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-list.png"
+            width="50%"
+            align="center" style="margin-left:auto;margin-right:auto"
+            alt="html movie catalog in browser: movie list">
+            <br><br><i>html movie catalog in browser: movie list</i>
+            <br><br>
+            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/snap-details.png"
+              width="50%"
+              align="center" style="margin-left:auto;margin-right:auto"
               alt="html movie catalog in browser: movie details">
             <br><br><i>html movie catalog in browser: movie details</i>
         </p>
     </td>
+    <td width="30%">
+        <p align="center">
+            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/setup-iss.png"
+              width="70%"  
+              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" alt="Inno Setup">
+              <br><br><i>Inno Setup</i><br><br>
+              <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-icon.png" 
+              width="400px"
+              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+              alt="tray icon">
+              <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-menu.png" 
+              width="50%" 
+              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
+              alt="tray menu">
+              <br><br><i>Tray app</i><br><br>
+        </p>
+    </td>   
 </tr>
 </table>
 
@@ -119,7 +93,7 @@ title: flow chart
     <td>
         <p align="center">
             <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-icon.png" 
-              width="70%" 
+              width="400px" 
               align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
               alt="tray icon">
         </p>
@@ -131,7 +105,7 @@ title: flow chart
               align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
               alt="tray menu">
         </p>
-    </td>    
+    </td>  
 </tr>
 <tr>
 <td>
