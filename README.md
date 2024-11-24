@@ -18,8 +18,12 @@ Generates **Movie catalogs documents** (HTML, stand alone ZIP,...) from a **list
 Can scrap data from [IMDb](http://www.imdb.com)
 
 👉 User & Developer manual: [manual.md](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/doc/manual.md)
-
 👉 Read the project [readme](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md)
+👉 download last release: [1.0.0](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0/movie-db-assistant.setup.1.0.0.exe) *(Inno Setup)* for `Windows 7,8,10,11 x64`
+
+*Notes*
+
+- depends on the scrawler from the project `MovieDbSpiders` @ GitHub: [/MovieDbSpiders/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)
 
 <br>
 <table width="100%" border="0" noborder>
@@ -75,56 +79,6 @@ Can scrap data from [IMDb](http://www.imdb.com)
 ![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/MovieDbAssistant?&style=plastic&label=release)
 
 </div>
-
-👉 download last release: [1.0.0-beta](https://github.com/franck-gaspoz/MovieDbAssistant/releases/download/1.0.0-beta/movie-db-assistant.setup.1.0.0.exe) *(Inno Setup)* for `Windows 10,11 x64 >= 10.0.22621.0`
-
-#### setup & tray app
-
-<table width="100%" border="0">
-<tr>
-    <td>
-        <p align="center">
-            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/setup-iss.png" 
-              width="50%" 
-              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
-              alt="Inno Setup">
-        </p>
-    </td>
-    <td>
-        <p align="center">
-            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-icon.png" 
-              width="400px" 
-              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
-              alt="tray icon">
-        </p>
-    </td>
-    <td>
-        <p align="center">
-            <img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/tray-menu.png" 
-              width="70%" 
-              align="center" style="margin-left:auto;margin-right:auto;vertical-align:bottom" 
-              alt="tray menu">
-        </p>
-    </td>  
-</tr>
-<tr>
-<td>
-    <p align="center"><i>Inno Setup</i></p>
-</td>
-<td>
-    <p align="center"><i>Tray Icon</i></p>
-</td>
-<td>
-    <p align="center"><i>Tray Menu</i></p>
-</td>
-</tr>
-</table>
-
-
-
-*Notes*
-
-depends on the scrawler from the project `MovieDbSpiders` @ GitHub: [/MovieDbSpiders/blob/master/README.md](https://github.com/franck-gaspoz/MovieDbSpiders/blob/master/README.md)
 
 ___
 
