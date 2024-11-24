@@ -146,16 +146,7 @@ title: flow chart
 </tr>
 </table>
 
-#### Movie Db Software suite
 
-Make working together `Movie Db Viewer` , [`Movie Db Assistant`](https://github.com/franck-gaspoz/MovieDbAssistant/blob/main/README.md) , [`Movie Db Spiders`](https://github.com/franck-gaspoz/MovieDbSpiders/blob/main/README.md)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/main/assets/software-suite-screenshot.png" 
-  width="70%" 
-  align="center" style="margin-left:auto;margin-right:auto" 
-  alt="Inno Setup">
-</p>
 
 *Notes*
 
