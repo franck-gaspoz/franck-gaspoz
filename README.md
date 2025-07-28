@@ -82,10 +82,7 @@ main purposes:
 ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
 ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) 
 ![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=cdf998&style=plastic&logo=css3&logoColor=black)
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/soundcard-signal-analyzer-generator?color=3076BB&style=plastic&logo=github)
-
-![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/soundcard-signal-analyzer-generator?&style=plastic&label=release)
 
 </div>
 
