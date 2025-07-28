@@ -14,23 +14,11 @@ ___
 
 ### ⚡Soundcard Oscilloscope Analyser Generator
 
-A Web Javascript application running in the browser
-
-main purposes:
-
-- oscilloscope (time,frequency,cursor,markers,lissajous,...)
-- signal analysis (FFT, frequency, min/max/average, ...)
-- signal generator (wave,square,...)
-- apply effects on signals (reverb,echo,filter,...)
-- maths (combinate signal together)
-- multi channels
-- audio channel input
-- line out
+A Web Javascript application running in the browser. Provides an oscilloscope (time,frequency,cursor,markers,lissajous,...), signal analysis (FFT, frequency, min/max/average, ...), generator (wave, square,...), apply effects on signals (reverb, echo, filter,...), maths (combinate signal together),multi channels, audio channel input, line out
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/soundcard-signal-analyzer-generator/blob/main/README.md)
 
-<b>hosted at: [https://oscilloscope.infy.uk/](https://oscilloscope.infy.uk/)</b><br><br>
-[<img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=0077b6">](https://github.com/SamKirkland/FTP-Deploy-Action)
+<b>hosted at: [https://oscilloscope.infy.uk/](https://oscilloscope.infy.uk/)</b>
 
 <table width="100%" border="0" noborder>
 <tr>
