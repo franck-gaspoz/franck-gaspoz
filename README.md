@@ -12,6 +12,84 @@ ___
 
 <br>
 
+### ⚡Soundcard Oscilloscope Analyser Generator
+
+A Web Javascript application running in the browser
+
+main purposes:
+
+- oscilloscope (time,frequency,cursor,markers,lissajous,...)
+- signal analysis (FFT, frequency, min/max/average, ...)
+- signal generator (wave,square,...)
+- apply effects on signals (reverb,echo,filter,...)
+- maths (combinate signal together)
+- multi channels
+- audio channel input
+- line out
+
+<b>hosted at: [https://oscilloscope.infy.uk/](https://https://oscilloscope.infy.uk/)</b>
+
+<table width="100%" border="0" noborder>
+<tr>
+    <td width="50%">
+        <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.8.png"
+            width="100%"
+            align="center" style="margin-left:auto;margin-right:auto"
+            alt="temperature colors">
+            <br><br><i>v 0.7 - 'temperature' colors</i>
+        </p>
+    </td>
+    <td width="50%">
+        <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.7.png"
+            width="100%"
+            align="center" style="margin-left:auto;margin-right:auto"
+            alt="temperature colors">
+            <br><br><i>v 0.7 - triggers with graphical markers</i>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td width="50%">
+        <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.6c.png"
+            width="100%"
+            align="center" style="margin-left:auto;margin-right:auto"
+            alt="temperature colors">
+            <br><br><i>v 0.6 - signal generator (oscillator/modulator)</i>
+        </p>
+    </td>
+    <td width="50%">
+        <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.4.png"
+            width="100%"
+            align="center" style="margin-left:auto;margin-right:auto"
+            alt="temperature colors">
+            <br><br><i>v 0.4 - input widget</i>
+        </p>
+    </td>
+</tr>
+</table>        
+
+<br>
+
+<div align="center" style="margin-left:auto;margin-right:auto;display:inline">
+
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/refs/heads/main/LICENSE)
+![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
+![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
+![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) 
+![css3](https://img.shields.io/static/v1?label=&message=CSS3&color=cdf998&style=plastic&logo=css3&logoColor=black)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/franck-gaspoz/soundcard-signal-analyzer-generator?color=3076BB&style=plastic&logo=github)
+
+![release](https://img.shields.io/github/release-date-pre/franck-gaspoz/soundcard-signal-analyzer-generator?&style=plastic&label=release)
+
+</div>
+
+___
+
 ### ⚡Movie Db Assistant
 
 Generates **Movie catalogs documents** (HTML, stand alone ZIP,...) from a **list of movies titles** using **Web Crawlers** and a **templating system**.
