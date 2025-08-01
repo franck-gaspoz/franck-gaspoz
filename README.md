@@ -18,7 +18,7 @@ A Web Javascript application running in the browser. Provides an oscilloscope (t
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/soundcard-signal-analyzer-generator/blob/main/README.md)
 
-<b>hosted at: [https://oscilloscope.infy.uk/](https://oscilloscope.infy.uk/)</b>
+⭐ <b>run it at: [https://oscilloscope.infy.uk/](https://oscilloscope.infy.uk/)</b> ⭐
 
 <table width="100%" border="0" noborder>
 <tr>
