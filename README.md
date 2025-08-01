@@ -12,9 +12,9 @@ ___
 
 <br>
 
-### ⚡Sound card Oscilloscope | Signal Analyser Generator
+### ⚡Sound card Oscilloscope | Signal Analyzer Generator
 
-A Web Javascript application running in the browser. Provides an oscilloscope (time,frequency,cursor,markers,lissajous,...), signal analysis (FFT, frequency, min/max/average, ...), generator (wave, square,...), apply effects on signals (reverb, echo, filter,...), maths (combinate signal together),multi channels, audio channel input, line out
+A Web Javascript application running in the browser. Provides an oscilloscope (time, frequency, cursor, markers, lissajous,...), signal analysis (FFT, frequency, min/max/average, ...), generator (wave, square,...), apply effects on signals (reverb, echo, filter,...), maths (combinate signal together), multi channels, audio channel input, line out
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/soundcard-signal-analyzer-generator/blob/main/README.md)
 
