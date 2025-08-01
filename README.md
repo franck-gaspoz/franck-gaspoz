@@ -24,11 +24,11 @@ A Web Javascript application running in the browser. Provides an oscilloscope (t
 <tr>
     <td width="50%">
         <p align="center">
-        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.8.png"
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.8b.png"
             width="100%"
             align="center" style="margin-left:auto;margin-right:auto"
             alt="temperature colors">
-            <br><br><i>v 0.7 - 'temperature' colors</i>
+            <br><br><i>v 0.b - FFT</i>
         </p>
     </td>
     <td width="50%">
