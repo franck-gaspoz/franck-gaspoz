@@ -18,9 +18,8 @@ A Web Javascript application running in the browser (responsive ui, fits desktop
 
 👉 Read the project [readme](https://github.com/franck-gaspoz/soundcard-signal-analyzer-generator/blob/main/README.md)
 
-⭐ <b>run it freely at:
+⭐ <b>you can run it freely at one of those urls:
 - [https://franck-gaspoz.github.io/soundcard-signal-analyzer-generator/](https://franck-gaspoz.github.io/soundcard-signal-analyzer-generator/)
-or
 - [https://oscilloscope.infy.uk/](https://oscilloscope.infy.uk/)</b>
 
 <table width="100%" border="0" noborder>
