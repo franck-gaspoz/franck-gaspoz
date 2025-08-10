@@ -69,7 +69,7 @@ A Web Javascript application running in the browser (responsive ui, fits desktop
 
 <div align="center" style="margin-left:auto;margin-right:auto;display:inline">
 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/refs/heads/main/LICENSE)
+[![GPLv2 license](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://raw.githubusercontent.com/franck-gaspoz/MovieDbAssistant/refs/heads/main/LICENSE)
 ![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
 ![json](https://img.shields.io/static/v1?label=&message=JSON&color=cdf998&style=plastic&logo=javascript&logoColor=darkgreen)
 ![html5](https://img.shields.io/static/v1?label=&message=HTML5&color=cdf998&style=plastic&logo=html5) 
