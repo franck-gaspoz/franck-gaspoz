@@ -12,7 +12,7 @@ ___
 
 <br>
 
-### ⚡Sound card Oscilloscope | Sprectrum Analyzer | Signal Generator
+### ⚡Sound card Oscilloscope | Spectrum Analyzer | Signal Generator
 
 A Web Javascript application running in the browser (responsive ui, fits desktop, tablet, smartphones). Provides an oscilloscope (time, frequency, cursor, markers, lissajous,...), signal analysis (FFT, frequency, min/max/average, ...), generator (wave, square,...), apply effects on signals (reverb, echo, filter,...), maths (combinate signal together), multi channels, audio channel input, line out
 
