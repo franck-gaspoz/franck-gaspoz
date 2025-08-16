@@ -24,12 +24,23 @@ A Web Javascript application running in the browser (responsive ui, fits desktop
 
 <table width="100%" border="0" noborder>
 <tr>
+<td width="100%" colspan="2">
+        <p align="center">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.9c.png"
+            width="100%"
+            align="center" style="margin-left:auto;margin-right:auto"
+            alt="web radio picker">
+            <br><br><i>v 0.9 - Input from WEB Stream : module <b>Web Radio Picker</b></i>
+        </p>
+    </td>
+</tr>
+<tr>
     <td width="50%">
         <p align="center">
         <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.8b.png"
             width="100%"
             align="center" style="margin-left:auto;margin-right:auto"
-            alt="temperature colors">
+            alt="FFT">
             <br><br><i>v 0.8 - FFT</i>
         </p>
     </td>
@@ -38,7 +49,7 @@ A Web Javascript application running in the browser (responsive ui, fits desktop
         <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.7.png"
             width="100%"
             align="center" style="margin-left:auto;margin-right:auto"
-            alt="temperature colors">
+            alt="triggers with graphical markers">
             <br><br><i>v 0.7 - triggers with graphical markers</i>
         </p>
     </td>
@@ -49,7 +60,7 @@ A Web Javascript application running in the browser (responsive ui, fits desktop
         <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.6c.png"
             width="100%"
             align="center" style="margin-left:auto;margin-right:auto"
-            alt="temperature colors">
+            alt="signal generator">
             <br><br><i>v 0.6 - signal generator (oscillator/modulator)</i>
         </p>
     </td>
@@ -58,7 +69,7 @@ A Web Javascript application running in the browser (responsive ui, fits desktop
         <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.4.png"
             width="100%"
             align="center" style="margin-left:auto;margin-right:auto"
-            alt="temperature colors">
+            alt="input widget">
             <br><br><i>v 0.4 - input widget</i>
         </p>
     </td>
