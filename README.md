@@ -30,7 +30,7 @@ A Web Javascript application running in the browser (responsive ui, fits desktop
         <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.9f.png"
             width="100%"
             align="center" style="margin-left:auto;margin-right:auto"
-            alt="web radio picker"></a>
+            alt="web radio picker"></a> click on the image to watch in video
             <br><br><i>v 0.9 - Input from WEB Stream : module <b>Web Radio Picker</b></i>
         </p>
     </td>
