@@ -26,10 +26,11 @@ A Web Javascript application running in the browser (responsive ui, fits desktop
 <tr>
 <td width="100%" colspan="2">
         <p align="center">
-        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.9c.png"
+        <a href="https://github.com/franck-gaspoz/soundcard-signal-analyzer-generator/blob/main/doc/vid-oscillo-wrp.mp4" alt="watch in video">
+        <img src="https://raw.githubusercontent.com/franck-gaspoz/soundcard-signal-analyzer-generator/main/doc/screenshot-0.9f.png"
             width="100%"
             align="center" style="margin-left:auto;margin-right:auto"
-            alt="web radio picker">
+            alt="web radio picker"></a>
             <br><br><i>v 0.9 - Input from WEB Stream : module <b>Web Radio Picker</b></i>
         </p>
     </td>
